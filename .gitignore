@@ -1,0 +1,16 @@
+flutter_test*
+*.lcov
+coverage/
+!.ruby-version
+!.tool-versions
+*.jks
+fastlane/report.xml
+.idea/*
+Runner.app.dSYM.zip
+Runner.ipa
+builds/*.apk
+builds/*.aab
+builds/*.ipa
+builds/*.dSYM.zip
+.vscode/
+.DS_Store

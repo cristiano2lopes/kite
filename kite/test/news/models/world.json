@@ -1,0 +1,2832 @@
+{
+  "category": "World",
+  "timestamp": 1742645759,
+  "read": 539,
+  "clusters": [
+    {
+      "cluster_number": 1,
+      "unique_domains": 16,
+      "number_of_titles": 27,
+      "category": "Aviation",
+      "title": "Heathrow Airport resumes operations after fire shutdown",
+      "short_summary": "London's Heathrow Airport is fully operational again after a fire at an electrical substation forced its closure for most of Friday, causing global travel disruption. The shutdown affected approximately 1,350 flights and stranded 200,000 passengers, with the airport now deploying additional staff and scheduling extra flights to accommodate 10,000 more passengers on Saturday, though airlines warn disruptions will continue for days.",
+      "did_you_know": "Heathrow Airport serves around 230,000 passengers every day — 83 million a year — making it one of the world's busiest airports with flights to approximately 80 countries.",
+      "talking_points": [
+        "Power outage cause: The fire started Thursday night at an electrical substation located about 2 miles away from the airport, taking firefighters around seven hours to bring under control.",
+        "Global impact: The closure of Europe's busiest air hub caused worldwide travel chaos as planes were diverted to other airports across Britain and Europe while many long-haul flights returned to their departure points.",
+        "Recovery efforts: British Airways expects to operate about 85% of its scheduled flights on Saturday, while restrictions on overnight flights have been temporarily lifted to help ease the backlog of passengers.",
+        "Infrastructure concerns: The incident has raised serious questions about the vulnerability of critical UK infrastructure and the adequacy of contingency plans at one of the world's major transportation hubs.",
+        "Investigation focus: Police do not consider the fire suspicious, with the London Fire Brigade indicating their investigation will focus on the electrical distribution equipment at the substation."
+      ],
+      "quote": "This is unprecedented. It's never happened before and that's why I'm saying it has been a major incident. I mean, short of anybody getting hurt, this is as big as it gets for our airport and we are actually coming back quite fast I would say, when you consider the amount of systems that we have to shut down then bring back up and make sure that they're safe.",
+      "quote_author": "Thomas Woldbye, Heathrow Chief Executive",
+      "quote_source_url": "https://www.theguardian.com/uk-news/live/2025/mar/22/heathrow-airport-closure-fire-reopens-london-travel-flight-information-latest-news-updates",
+      "quote_source_domain": "theguardian.com",
+      "location": "London, United Kingdom",
+      "perspectives": [
+        {
+          "text": "Airport management: Heathrow CEO Thomas Woldbye defended the airport's response, saying contingencies of certain sizes \"we cannot guard ourselves against 100%\" and that most other airports operate similar back-up power systems.",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/uk-news/2025/mar/22/heathrow-boss-defends-running-of-airport-after-criticism-of-shutdown"
+            }
+          ]
+        },
+        {
+          "text": "Airline industry: Willie Walsh, Director General of the International Air Transport Association, criticized the airport saying \"This is yet another case of Heathrow letting down both travellers and airlines\" and called it \"a clear planning failure by the airport.\".",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/uk/global-travel-chaos-has-airlines-scrambling-after-fire-forces-heathrow-shutdown-2025-03-22/"
+            }
+          ]
+        },
+        {
+          "text": "Infrastructure experts: Security and infrastructure experts have raised concerns about the vulnerability of critical UK infrastructure, questioning how one seemingly accidental fire could shut down Europe's busiest air hub.",
+          "sources": [
+            {
+              "name": "AP News",
+              "url": "https://apnews.com/article/heathrow-reopens-fire-disruption-airlines-delays-eeac11179fe495c04cbb331128149d3b"
+            }
+          ]
+        },
+        {
+          "text": "Impacted travelers: Thousands of stranded passengers were forced to find scarce hotel accommodations or alternative travel arrangements, with some getting creative while others simply gave up on their travel plans.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2025/03/21/world/europe/heathrow-passengers-stories.html"
+            }
+          ]
+        }
+      ],
+      "emoji": "✈️",
+      "geopolitical_context": "",
+      "historical_background": "",
+      "international_reactions": "",
+      "humanitarian_impact": "",
+      "economic_implications": "",
+      "timeline": [
+        "Thursday night, March 20:: Fire breaks out at electrical substation near Heathrow",
+        "Friday morning, March 21:: Heathrow Airport announces full closure due to power outage",
+        "Friday evening, March 21:: Limited flights begin to resume after 18-hour shutdown",
+        "Saturday, March 22:: Airport declares it is \"fully operational\" but disruptions continue"
+      ],
+      "future_outlook": "",
+      "key_players": [],
+      "technical_details": "",
+      "business_angle_text": "",
+      "business_angle_points": [],
+      "user_action_items": [
+        "Check flight status: Contact your airline directly for the latest information about your flight before heading to the airport.",
+        "Review compensation rights: European air passengers may be entitled to compensation under EU261 regulations for significant delays and cancellations.",
+        "Adjust travel plans: Consider flexible rebooking options offered by airlines affected by the disruption if traveling to or through Heathrow in the coming days."
+      ],
+      "scientific_significance": [],
+      "travel_advisory": [],
+      "destination_highlights": "",
+      "culinary_significance": "",
+      "performance_statistics": [],
+      "league_standings": "",
+      "diy_tips": "",
+      "design_principles": "",
+      "user_experience_impact": "",
+      "gameplay_mechanics": [],
+      "industry_impact": [
+        "Financial consequences: The shutdown is expected to cost airlines and the airport tens of millions of pounds, with disputes likely over who should bear responsibility for passenger compensation.",
+        "Global supply chains: The closure of a major international hub has temporarily disrupted cargo operations, affecting time-sensitive shipments and highlighting vulnerabilities in global logistics networks.",
+        "Infrastructure security: The incident has prompted calls for a review of critical infrastructure security and resilience at major transportation hubs worldwide, potentially leading to new regulations or guidelines."
+      ],
+      "technical_specifications": "",
+      "articles": [
+        {
+          "title": "London's Heathrow Airport 'Fully Operational' A Day After Fire Shutdown",
+          "link": "https://www.ndtv.com/world-news/londons-heathrow-airport-fully-operational-a-day-after-fire-shutdown-7983663",
+          "domain": "ndtv.com",
+          "date": "2025-03-22T09:40:27+00:00",
+          "image": "https://kagiproxy.com/img/Uz5wTwh6OXoAC9AralTaePOShXcxS3tv-VMPZJhUz3AE1hRlKBfhIvhtkOFYeCG-zlNjZkQdMx0wUrpUHv4zMVhfk63uKxqaL6byOsbvCMIThM1tv92yiQLub8qCawEZQuCJ5w",
+          "image_caption": "About 1,350 flights were affected by Friday's closure."
+        },
+        {
+          "title": "Travel Disruptions Linger as Flights Resume at London’s Heathrow",
+          "link": "https://www.nytimes.com/2025/03/22/world/europe/heathrow-airport-flights.html",
+          "domain": "nytimes.com",
+          "date": "2025-03-22T05:59:23+00:00",
+          "image": "https://kagiproxy.com/img/KqN_mYkd5DyGFH9dpWw38Z4oR3IauNHZ0RXvRExtbk14AeBBvjA-ITzN12kRp-TEkN1ZcSRZ9W_Er-TQ8RuWJavQhqmVlbmLGcpE8IaYNR5hYK2Iy94_f_qZZr5Tym7uiISXeCnHgKulAQ47kI-XYmWlJrbczElUBm29JQ3AIV3Qd7e5tE-qCXZDZFhow_7qMeRkJirWUuNtaHi-",
+          "image_caption": "Flights resuming at Heathrow Airport in London on Saturday, a day after a fire at an electrical substation halted operations for most of Friday. (Alberto Pezzali/Associated Press)"
+        },
+        {
+          "title": "Flights resume at London Heathrow after a daylong closure sparked travel chaos around the world",
+          "link": "https://apnews.com/article/heathrow-reopens-fire-disruption-airlines-delays-eeac11179fe495c04cbb331128149d3b",
+          "domain": "apnews.com",
+          "date": "2025-03-22T13:12:20+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Heathrow resumes operations as global airlines scramble after shutdown",
+          "link": "https://www.reuters.com/world/uk/global-travel-chaos-has-airlines-scrambling-after-fire-forces-heathrow-shutdown-2025-03-22/",
+          "domain": "reuters.com",
+          "date": "2025-03-22T00:08:59+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Heathrow Airport 'fully operational' after fire causes daylong closure",
+          "link": "https://www.france24.com/en/europe/20250322-heathrow-airport-fully-operational-after-fire-causes-daylong-closure",
+          "domain": "france24.com",
+          "date": "2025-03-22T08:47:20+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "London’s Heathrow shutdown exposes security flaws, raises concerns over contingency plans",
+          "link": "https://www.scmp.com/news/world/europe/article/3303432/londons-heathrow-shutdown-exposes-security-flaws-raises-concerns-over-contingency-plans",
+          "domain": "scmp.com",
+          "date": "2025-03-22T02:10:07+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "London's Heathrow Airport 'fully operational' after 18-hour shutdown due to blackout",
+          "link": "https://www.firstpost.com/world/londons-heathrow-airport-resumes-operations-as-first-flight-lands-after-18-hour-shutdown-13873496.html",
+          "domain": "firstpost.com",
+          "date": "2025-03-22T08:46:51+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Heathrow reopens after blaze but airlines warn of more disruption",
+          "link": "https://www.ft.com/content/107f0081-368b-42bd-a9e1-2149dbe70d07",
+          "domain": "ft.com",
+          "date": "2025-03-22T12:01:59+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "1 of 6 Hong Kong-London daily flights axed despite Heathrow reopening after fire",
+          "link": "https://www.scmp.com/news/hong-kong/transport/article/3303446/1-6-hong-kong-london-daily-flights-axed-despite-heathrow-reopening",
+          "domain": "scmp.com",
+          "date": "2025-03-22T05:29:52+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "News Wrap: Heathrow reopens after fire closed airport for hours",
+          "link": "https://www.pbs.org/newshour/show/news-wrap-heathrow-reopens-after-fire-closed-airport-for-hours",
+          "domain": "pbs.org",
+          "date": "2025-03-21T22:50:19+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Heathrow airport reopens but ‘huge impact’ on travel expected for days – live updates",
+          "link": "https://www.theguardian.com/uk-news/live/2025/mar/22/heathrow-airport-closure-fire-reopens-london-travel-flight-information-latest-news-updates",
+          "domain": "theguardian.com",
+          "date": "2025-03-22T11:57:06+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Heathrow boss defends running of airport after criticism of shutdown",
+          "link": "https://www.theguardian.com/uk-news/2025/mar/22/heathrow-boss-defends-running-of-airport-after-criticism-of-shutdown",
+          "domain": "theguardian.com",
+          "date": "2025-03-22T11:46:34+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Heathrow Airport flights resume after fire cut power",
+          "link": "https://www.dw.com/en/heathrow-airport-flights-resume-after-fire-cut-power/a-71992111",
+          "domain": "dw.com",
+          "date": "2025-03-21T20:34:00+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "What Caused the Fire That Shut Down Heathrow Airport?",
+          "link": "https://www.nytimes.com/2025/03/21/world/europe/heathrow-power-fire-investigation.html",
+          "domain": "nytimes.com",
+          "date": "2025-03-21T20:31:31+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Flights Resume at Heathrow After Substation Fire Shut Down Airport",
+          "link": "https://www.nytimes.com/2025/03/21/world/europe/heathrow-airport-london-fire.html",
+          "domain": "nytimes.com",
+          "date": "2025-03-22T10:51:48+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Stranded by Heathrow Closure, Some Travelers Got Creative. Others Just Gave Up.",
+          "link": "https://www.nytimes.com/2025/03/21/world/europe/heathrow-passengers-stories.html",
+          "domain": "nytimes.com",
+          "date": "2025-03-21T22:11:37+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "What We Know About the Closure of Heathrow Airport",
+          "link": "https://www.nytimes.com/2025/03/21/world/europe/london-heathrow-airport-closed.html",
+          "domain": "nytimes.com",
+          "date": "2025-03-21T21:11:06+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Flights resume at London Heathrow after daylong closure sparked travel chaos around the world",
+          "link": "https://www.thehindu.com/news/international/flights-resume-at-london-heathrow-after-daylong-closure-sparked-travel-chaos-around-the-world/article69361207.ece",
+          "domain": "thehindu.com",
+          "date": "2025-03-22T09:54:58+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "London’s Heathrow Airport slowly resumes flights after a fire cut power",
+          "link": "https://www.thehindu.com/news/international/londons-heathrow-airport-slowly-resumes-flights-after-a-fire-cut-power/article69359624.ece",
+          "domain": "thehindu.com",
+          "date": "2025-03-21T20:50:00+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "London's Heathrow Airport resumes some flights after huge power cut",
+          "link": "https://www.cbsnews.com/news/heathrow-airport-london-closes-power-outage/",
+          "domain": "cbsnews.com",
+          "date": "2025-03-22T01:56:00+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Travellers face days of disruption as Heathrow reopens after blaze",
+          "link": "https://www.ft.com/content/de64b713-cecd-4eca-acda-f5e9a0fc1b09",
+          "domain": "ft.com",
+          "date": "2025-03-22T07:24:03+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Heathrow restarts flights after closure causes global flight turmoil",
+          "link": "https://japantoday.com/category/world/heathrow-restarts-flights-after-closure-causes-global-flight-turmoil",
+          "domain": "japantoday.com",
+          "date": "2025-03-22T06:43:57+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Heathrow Airport reopens after electricity outage left passengers stranded",
+          "link": "https://www.npr.org/2025/03/22/nx-s1-5336229/heathrow-airport-reopens-after-electricity-outage-left-passengers-stranded",
+          "domain": "npr.org",
+          "date": "2025-03-22T12:05:28+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Flights resume at London Heathrow after a daylong closure sparked travel chaos",
+          "link": "https://www.npr.org/2025/03/22/g-s1-55314/flights-resume-london-heathrow",
+          "domain": "npr.org",
+          "date": "2025-03-22T10:08:08+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Global travel chaos has airlines scrambling after fire forces Heathrow shutdown",
+          "link": "https://www.straitstimes.com/world/europe/global-travel-chaos-has-airlines-scrambling-after-fire-forces-heathrow-shutdown",
+          "domain": "straitstimes.com",
+          "date": "2025-03-22T00:13:09+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "What caused the fire that shut down London’s Heathrow Airport?",
+          "link": "https://www.straitstimes.com/world/europe/what-caused-the-fire-that-shut-down-londons-heathrow-airport",
+          "domain": "straitstimes.com",
+          "date": "2025-03-21T23:45:00+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Heathrow shutdown shows how aviation chaos can quickly spiral",
+          "link": "https://www.straitstimes.com/world/europe/heathrow-shutdown-shows-how-aviation-chaos-can-quickly-spiral",
+          "domain": "straitstimes.com",
+          "date": "2025-03-21T23:30:00+00:00",
+          "image": "",
+          "image_caption": ""
+        }
+      ],
+      "domains": [
+        {
+          "name": "scmp.com",
+          "favicon": "https://kagiproxy.com/img/GQ2ToDHjH1daR-r9_Y7Q-6eS0KLBcYXo4E1rEiBKjA4-EbEfKvgB2u7LCKxz3c1x3hyY22PVRlPTyhK5ONkLXkRf8KfOh10zZGqD6GAG"
+        },
+        {
+          "name": "straitstimes.com",
+          "favicon": "https://kagiproxy.com/img/A2qXig7orN8q9UHfhQQgZp8xgmDQTY6CCsjDWtGh6F3xXklNDp4Qv4TINNV_g4E57KViV2QMPe6YIOVU8con2d80m_LkUizKgTZWEzuRzF1zaOWcrBQ"
+        },
+        {
+          "name": "reuters.com",
+          "favicon": "https://kagiproxy.com/img/iLmbTjFxMk-pYRCeadnm9EQjG_KoSy0t6x1SJpPOueEKpp-hLuymqPaBpnn1FsGColtQnQ79PL8B5IIGbRQZyVdu1IxjJWJEo7Y4ktLNW6KN"
+        },
+        {
+          "name": "cbsnews.com",
+          "favicon": "https://kagiproxy.com/img/9YgMIepdgj4EeU3p2HxQ_ed2S6_Wbh7xsQdeXWXgFIulB3t3oFOUYpDSOosalmHgTNuneNJodCXJ3bhfqNPgCSh84iHifUriy9iTEhcOA6aO"
+        },
+        {
+          "name": "japantoday.com",
+          "favicon": "https://kagiproxy.com/img/b8pn2MEwYPXGVjnTtw_AvrFA4IFb7ZR2uGtVt0QVbk8U7yCz0yye6hEzF8ktYZm6VHsOLoNYXylcMp1bqClxsll_yBeu-l5mqLtm0taxyhhjkB6a"
+        },
+        {
+          "name": "apnews.com",
+          "favicon": "https://kagiproxy.com/img/dZDPeuyfRrJlhSkyK-AMRB2-s-8VFYKBN_TPQSbT0wWiWkSyA5zj4lXFGFcg5b-Mf6F_LQ1z9BlQ67Lgpx26hKHtxiRND1-IXz3o_8wp4so"
+        },
+        {
+          "name": "theguardian.com",
+          "favicon": "https://kagiproxy.com/img/NcxGgSh9ckF8VGrGsz2Pu3FpblrVY842Z01BRt_Y6Q0UMhDZa7vmH5AKWxStJ96miCWj6OQx-xZlsLCH0de_wevP3x0ufB-f1P5SRRqIQRkYkS_5oQ"
+        },
+        {
+          "name": "ft.com",
+          "favicon": "https://kagiproxy.com/img/CTn1FitHS3VsCAN1XET4BMkP4OXGj1bF9bBFFZPGE9Z5leE4h-kS5d5-TfIUucHCxy3NbMV-dxSJikgQPzFNP_eyiagV1BUOqMrvYQ"
+        },
+        {
+          "name": "pbs.org",
+          "favicon": "https://kagiproxy.com/img/zPfXeogKv0x71VOCPKF2PjZe1E2hWJUTT6dFHbnACOxC4fv8nZJc6BcsyQ-qpJX6pEvq9w8HVyXHIGS-W6qC77YqhLFGZH6HAM1oABQ"
+        },
+        {
+          "name": "nytimes.com",
+          "favicon": "https://kagiproxy.com/img/QzGQnysYU3xg2crqVIjwx0UihmPf-HiNZb7Z4-9RAjsUavzuT2kbN9e9n5nmeVHw3smRUAr_pyFrNzZxa9A_FBA5ITIzyx82YbXPB9BZT0jC"
+        },
+        {
+          "name": "thehindu.com",
+          "favicon": "https://kagiproxy.com/img/Iz3m87WCDnmjGEmtm4tN75ycTRLgIsCg8R-hVomuqSVNZ_6plr1FMaU_bP0I8qWtY-bocSASOVzvNJENCos0KqO__DvpMCmRG18iD-ybOxn1tA"
+        },
+        {
+          "name": "firstpost.com",
+          "favicon": "https://kagiproxy.com/img/mOSL_bqu9OI9ARb2oAiMwZu_wVnrqUSj754BdRIlVwO0iUjXO62TLk7C9iTYQtCdmREEY1VIXGNqrEgikha-KzMwRDsDhvwMFOcyg1Lob2w8mnQ"
+        },
+        {
+          "name": "france24.com",
+          "favicon": "https://kagiproxy.com/img/pziPV5Xgrd6DQ69CGkRQHbKuWmyM0YXTIQGO4aj24p8txm5fif_DqA94lnSTDRub4WALVibN_jW7R0v0EJ49VLFIzDJI3wHE4rt8EYTQIdK7Dw"
+        },
+        {
+          "name": "dw.com",
+          "favicon": "https://kagiproxy.com/img/wbtyBCeqdZ-DdunFrbGq4XZveogN2MJFLWMNbHkat74koCJyDmuWQmznR7CdO34G5xyPzv9x-vGnKrzcsFYNwDSZwgCRhyA2EfTbPA"
+        },
+        {
+          "name": "npr.org",
+          "favicon": "https://kagiproxy.com/img/GWXOalchYlBT9u2XL4rrfFXxTbFktEMMTwtgMeXYIfHjpemlJ8q2RUfO3hagE3Ji6B5YUJFLw6qynx_RnHCnZoEOIec40kHqRJZ7B00"
+        },
+        {
+          "name": "ndtv.com",
+          "favicon": "https://kagiproxy.com/img/2F1uAJIgPGlKlit1nqO32qYILsdDs6jBuREdpAdSDxMmHh5dgnr9sf0tVsnI_5FwYS1FBlKULXVcsQkUVtsGPDHxnVum3jPk8PA81kVo"
+        }
+      ]
+    },
+    {
+      "cluster_number": 2,
+      "unique_domains": 15,
+      "number_of_titles": 16,
+      "category": "Protests",
+      "title": "Turkey arrests hundreds as Istanbul mayor protests grow",
+      "short_summary": "Turkish authorities have arrested 343 people following a third night of mass protests across multiple cities against the detention of Istanbul Mayor Ekrem İmamoglu. The popular opposition figure, seen as President Recep Tayyip Erdogan's main political rival, was arrested Wednesday on terror-related and corruption charges, sparking Turkey's largest demonstrations in over a decade with hundreds of thousands of citizens defying government warnings against public gatherings.",
+      "did_you_know": "Ekrem İmamoglu is widely considered to be Erdogan's biggest political rival and a potential top challenger in the next presidential election scheduled for 2028.",
+      "talking_points": [
+        "Detention details: Mayor İmamoglu faced questioning for four hours on Friday over corruption allegations and appeared before prosecutors again on Saturday on terror-related charges.",
+        "Government response: President Erdogan warned against \"street terrorism\" while authorities used tear gas, water cannons, and rubber bullets to disperse protesters in multiple cities.",
+        "Opposition solidarity: Republican People's Party leader Ozgur Ozel claimed 300,000 people joined the Istanbul demonstration, describing it as a cross-party gathering for democracy rather than just a party rally.",
+        "Broader crackdown: İmamoglu's arrest occurred alongside dozens of other opposition figures, including two district mayors, as part of a larger government operation."
+      ],
+      "quote": "This is not a CHP rally, the people here are from all parties and have come to show solidarity with Mayor Imamoglu and stand up for democracy",
+      "quote_author": "Ozgur Ozel, opposition leader and head of the CHP",
+      "quote_source_url": "https://www.newarab.com/news/hundreds-thousands-defy-erdogan-protest-imamoglus-arrest",
+      "quote_source_domain": "newarab.com",
+      "location": "Istanbul, Turkey",
+      "perspectives": [
+        {
+          "text": "Turkish Government: The government rejects accusations that legal actions against opposition figures are politically motivated and insists Turkey's courts operate independently.",
+          "sources": [
+            {
+              "name": "AP News",
+              "url": "https://apnews.com/article/turkey-protest-istanbul-mayor-questioning-fa943edb6dc5a72e580d9c1a71e5f49a"
+            }
+          ]
+        },
+        {
+          "text": "Opposition Parties: The Republican People's Party (CHP) and other opposition groups view the arrests as a politically driven attempt to remove a popular rival to Erdogan before the 2028 presidential election.",
+          "sources": [
+            {
+              "name": "France24",
+              "url": "https://www.france24.com/en/video/20250322-istanbul-mayor-ekrem-imamoglu-s-arrest-sparks-mass-protests"
+            }
+          ]
+        },
+        {
+          "text": "Democracy Advocates: Critics see İmamoglu's detention as evidence of eroding democracy in Turkey, claiming Erdogan manipulates courts and media to tighten his grip on power.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2025/03/22/world/middleeast/turkey-erdogan-democracy-istanbul-mayor-detention.html"
+            }
+          ]
+        }
+      ],
+      "emoji": "✊",
+      "geopolitical_context": "",
+      "historical_background": "Ekrem İmamoglu rose to national prominence when he defeated Erdogan's candidate in the 2019 Istanbul mayoral election, which was forced to be re-run after the government contested the initial results, only for İmamoglu to win by an even larger margin in the second vote. This victory broke the ruling AKP party's 25-year control over Turkey's largest city and established İmamoglu as a significant opposition figure.",
+      "international_reactions": "",
+      "humanitarian_impact": "",
+      "economic_implications": "",
+      "timeline": [
+        "March 20, 2025:: Dawn raid leads to arrest of Istanbul Mayor Ekrem İmamoglu and dozens of opposition figures",
+        "March 21, 2025:: Second night of protests intensifies as thousands gather in major cities",
+        "March 22, 2025:: Interior Ministry announces 343 protesters arrested after third night of demonstrations"
+      ],
+      "future_outlook": "",
+      "key_players": [],
+      "technical_details": "",
+      "business_angle_text": "",
+      "business_angle_points": [],
+      "user_action_items": "",
+      "scientific_significance": [],
+      "travel_advisory": [],
+      "destination_highlights": "",
+      "culinary_significance": "",
+      "performance_statistics": [],
+      "league_standings": "",
+      "diy_tips": "",
+      "design_principles": "",
+      "user_experience_impact": "",
+      "gameplay_mechanics": [],
+      "industry_impact": [
+        "Economic uncertainty: The political unrest has caused a significant plunge in Turkey's stock market, adding to the country's existing economic challenges.",
+        "Democratic institutions: The arrest and subsequent protests highlight growing concerns about the independence of Turkey's judiciary and democratic processes.",
+        "Regional stability: Rising domestic tensions in Turkey, a key NATO member, could impact its role in regional security matters and relations with Western allies."
+      ],
+      "technical_specifications": "",
+      "articles": [
+        {
+          "title": "In Turkey, Critics of Erdogan See Democracy Eroding After Istanbul Mayor’s Detention",
+          "link": "https://www.nytimes.com/2025/03/22/world/middleeast/turkey-erdogan-democracy-istanbul-mayor-detention.html",
+          "domain": "nytimes.com",
+          "date": "2025-03-22T07:51:57+00:00",
+          "image": "https://kagiproxy.com/img/AujfKZhfNGjklareeY6XO16OnY3MUMzoLE5YJYjUVhu-VAISLLxDrQpgXMjrCeZ1UrWeb1w2GnVHJS7gRajR6c2i4_DdB9qNziBwpMKMw8V048yPGEuExZ7VRiaX0bM8kIFfE66TFRPUGd2BjjJy7452LqBYSRMCYqCTqUN0N8r59km-DTJdN-yjTCjy8XmuX2V8b0G-5LV1WOIllO8kCQLokre3EQ",
+          "image_caption": "University students protesting the arrest of Mayor Ekrem Imamoglu in Istanbul on Thursday. (Yasin Akgul/Agence France-Presse — Getty Images)"
+        },
+        {
+          "title": "Istanbul Mayor Ekrem Imamoglu's arrest sparks mass protests",
+          "link": "https://www.france24.com/en/video/20250322-istanbul-mayor-ekrem-imamoglu-s-arrest-sparks-mass-protests",
+          "domain": "france24.com",
+          "date": "2025-03-22T11:14:15+00:00",
+          "image": "https://kagiproxy.com/img/8sKM5M_IGpszC9yHVfHVCsMsqIcJ0bsvKR1bbBcEEDs1mtkRc-XTV39zW4qgFkQCINpEJ7llt58qR3VbULQkdehatd0MHAUlwpn302XfxoTA4sgfWXJ8TYukfB6C0PCfuJtQbUaVyjkc9piD2gTTRpJAjZNco6A4qHWCW2QgMnBpOKJJZX285qM0AnQcOTbh4wKsvA",
+          "image_caption": ""
+        },
+        {
+          "title": "Detained Istanbul mayor faces 2nd day of questioning as protests intensify",
+          "link": "https://apnews.com/article/turkey-protest-istanbul-mayor-questioning-fa943edb6dc5a72e580d9c1a71e5f49a",
+          "domain": "apnews.com",
+          "date": "2025-03-22T13:36:11+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Erdogan condemns Turkey protests as dozens arrested",
+          "link": "https://www.bbc.com/news/articles/c20l4xexp7go",
+          "domain": "bbc.com",
+          "date": "2025-03-22T11:45:53+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Turkey arrests protesters as detained Istanbul mayor faces second day of questioning",
+          "link": "https://www.france24.com/en/europe/20250322-turkey-protests-intensify-as-detained-istanbul-mayor-faces-second-day-of-questioning",
+          "domain": "france24.com",
+          "date": "2025-03-22T09:28:12+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Turkey: Protests spread, defy ban for day 3 over Imamoglu's arrest",
+          "link": "https://www.al-monitor.com/originals/2025/03/turkey-protests-spread-defy-ban-day-3-over-imamoglus-arrest",
+          "domain": "al-monitor.com",
+          "date": "2025-03-21T20:32:53+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Turkish opposition leader says 210,000 people taking part in rally in Istanbul",
+          "link": "https://tass.com/world/1932393",
+          "domain": "tass.com",
+          "date": "2025-03-21T20:55:28+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Over 340 arrests made in Turkey following mass protests against Erdogan",
+          "link": "https://www.firstpost.com/world/over-340-arrests-made-in-turkey-following-mass-protests-against-erdogan-13873600.html",
+          "domain": "firstpost.com",
+          "date": "2025-03-22T11:15:57+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Turkey arrests hundreds after Istanbul mayor protests",
+          "link": "https://www.dw.com/en/turkey-arrests-hundreds-after-istanbul-mayor-protests/a-72005251",
+          "domain": "dw.com",
+          "date": "2025-03-22T11:07:00+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Thousands rally in Istanbul as Erdogan issues warning against protests over Mayor’s arrest",
+          "link": "https://www.thehindu.com/news/international/thousands-rally-in-istanbul-as-erdogan-issues-warning-against-protests-over-mayors-arrest/article69360592.ece",
+          "domain": "thehindu.com",
+          "date": "2025-03-22T01:59:59+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Tens of thousands protest in Turkey against arrest of Erdoğan rival",
+          "link": "https://www.ft.com/content/1b31ad5e-1add-4f1d-a11e-43699ee7f0c2",
+          "domain": "ft.com",
+          "date": "2025-03-21T21:25:05+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Hundreds of thousands defy Erdogan to protest Imamoglu's arrest",
+          "link": "https://www.newarab.com/news/hundreds-thousands-defy-erdogan-protest-imamoglus-arrest",
+          "domain": "newarab.com",
+          "date": "2025-03-21T22:18:38+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Hundreds of thousands defy Erdogan to protest Istanbul mayor's arrest",
+          "link": "https://japantoday.com/category/world/turkey-won%27t-surrender-to-%27street-terror%27-erdogan-warns-protesters",
+          "domain": "japantoday.com",
+          "date": "2025-03-21T21:04:14+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Turkey detains 343 people over protests against Istanbul mayor’s detention, interior ministry says",
+          "link": "https://www.straitstimes.com/world/europe/turkey-detains-343-people-over-protests-against-istanbul-mayors-detention-interior-ministry-says",
+          "domain": "straitstimes.com",
+          "date": "2025-03-22T09:58:18+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Tens of thousands of anti-government protesters hold demonstrations in Istanbul, İzmir, Ankara, and several other cities in Turkey against the government of Turkish President Recep Tayyip Erdoğan, following its detention of over 100 opposition figures and crackdown on public gatherings and social media content.",
+          "link": "https://www.reuters.com/world/middle-east/turkey-criticises-opposition-leaders-call-streets-over-mayors-detention-2025-03-21/",
+          "domain": "reuters.com",
+          "date": "2025-03-22T00:00:00+00:00",
+          "image": "",
+          "image_caption": ""
+        }
+      ],
+      "domains": [
+        {
+          "name": "straitstimes.com",
+          "favicon": "https://kagiproxy.com/img/5uo3avVM3O2e0clDPWxnfG8woE94pr_BjEI6z31tmN7ej1F40VimL_Fm_isK_y5wrGKngy-H0xHtq4RCMnaeAzvSA42WJZP2uNr5bnrrLuJ4hgOiLMk"
+        },
+        {
+          "name": "japantoday.com",
+          "favicon": "https://kagiproxy.com/img/zAkG0q0CzhENd478N-q96Mt1rzHm3kfjH07P10xMM3uRmh3Ky_BciS5OnquvhYFdu90R0oVr-J3jpuEo1cWDuv4b_N06-Xg05AW0ecrQJPzNWkF5"
+        },
+        {
+          "name": "reuters.com",
+          "favicon": "https://kagiproxy.com/img/K_z-foT1Ff4THKhZMsrAigCugNyUJJ0-Wj2N7v9QAl1xRh8cTFxIoLTH1XwghibDQQWzbSArYjiafi4JpiayjBo3LcBOqSSoJAxx3wFq9dIF"
+        },
+        {
+          "name": "al-monitor.com",
+          "favicon": "https://kagiproxy.com/img/bn4QbIvZ5V1IjFfvrwbneEm9XXP8ijy5jBbjHz551272jo5v1p7uVNUaj99hvd6RR5aoLR6QXXMIbtdAhGXK66ZJNfNW7QnjyE0kqFMUsttWBrra"
+        },
+        {
+          "name": "apnews.com",
+          "favicon": "https://kagiproxy.com/img/BXAFOj3KKSg20dLLSyAJ05IBVsA978I5xAQRazPqlLiDgqBAMEzRFB1gbGMJHwIcmkmMlMAeg9Lys-gpFcAhxuL9MZdrwRMrHO0A5NAj5vw"
+        },
+        {
+          "name": "ft.com",
+          "favicon": "https://kagiproxy.com/img/svb7gjrmXIuU-n0UrQh4FYPSpJHujPmWukXULUfeYzgzWEGiypV9UrOddXxeyj3zDkz2vj9Ktfn0qumXY4AtrPLNSkIcZlZ94CTJ5w"
+        },
+        {
+          "name": "bbc.com",
+          "favicon": "https://kagiproxy.com/img/2gka42LN3qAS4sHBwYJ8FNTmjtquYefFQCzC3h71xFklIOEefi9omEE-iDhrW6FmUhs-lBT-rF4YLQPlIweq9Mk3nn0JyfAwkq9mKnQ"
+        },
+        {
+          "name": "newarab.com",
+          "favicon": "https://kagiproxy.com/img/RYg1xw6QsqGuZbV4A-YSHdeDzRZSvNfvQ_RKBb7XkrUWlJ0ZoLDDDlGj24LlzP-ROelumKgLW8jVOUFmVUU4JPtD3V6tcpTsdRRhmJbQCBUh"
+        },
+        {
+          "name": "nytimes.com",
+          "favicon": "https://kagiproxy.com/img/kWwR-10tRKOB1VWsIZjUEbAsOpBhX-SANP5grUbkrstVNaKJHgExIJZq1JXTUxgNqBK1huWs9tV-EGWeZJVCceadQYLSBEGNL1k50mgPM1go"
+        },
+        {
+          "name": "thehindu.com",
+          "favicon": "https://kagiproxy.com/img/bc0FUGZ-agPAjwRme7A6O_dWuiQRsgprOxZB61Oycqpu-QajIm8nRsxkBm_aHvrvjqnoVE9NmgoIcwgXExLgR1qQKqeHQrZqoAw7fwMVvDnGOQ"
+        },
+        {
+          "name": "tass.com",
+          "favicon": "https://kagiproxy.com/img/qu2B2sUyUofyOBK4TJPaeHPzF0Hy3OImPtfhXJjwBNINVwLxD8qQerz_jlPYPtBae1P5Y4BmTYiVqFo3DLnuRuThBWcuNCGITyIXz2Dk"
+        },
+        {
+          "name": "firstpost.com",
+          "favicon": "https://kagiproxy.com/img/XM5xNi3y2yN1DHH3Pjr0fDlCkPkFdAG0HXSG70U4J6sKWYmrQAtJDFThD4-V5KsSd2OGF1vvU5vuVmK4UVy7RhF1hEPtgHg9-J6A3ljqhsQZz_0"
+        },
+        {
+          "name": "france24.com",
+          "favicon": "https://kagiproxy.com/img/1mYzYCYCdT1xxqZ1fIvSCt-sBkIIEx-rOl27T177bocPqLh0ZxmZfKhgf3mXgXNjWLP6H317Q6Z6GWM1Cwm-ODDeE_Y8G9DprEks3MrRirxGQA"
+        },
+        {
+          "name": "dw.com",
+          "favicon": "https://kagiproxy.com/img/Mekeib7fUzTUtpz2LmlK1o8_L-rXNfs9mG8n6oKTmK_nmrFdZmoiWaXTynFsH9RgMCd_zvZJ_bAaxtGfnEeFVe_tnQjAsGPee5h3zg"
+        }
+      ]
+    },
+    {
+      "cluster_number": 3,
+      "unique_domains": 14,
+      "number_of_titles": 19,
+      "category": "Conflict",
+      "title": "Israel strikes Lebanon after rocket attacks",
+      "short_summary": "Israel launched airstrikes on multiple targets in Lebanon on Saturday after intercepting rockets fired toward northern Israel, marking the heaviest exchange of fire since a November ceasefire between Israel and Hezbollah. Lebanese Prime Minister Nawaf Salam warned that the escalation risks dragging Lebanon into a \"new war,\" while Israeli Defense Minister Israel Katz vowed a severe response, stating the country would not allow rocket fire into Israeli communities.",
+      "did_you_know": "The November ceasefire between Israel and Hezbollah ended 13 months of fighting that killed more than 4,000 people in Lebanon and displaced about 60,000 Israelis.",
+      "talking_points": [
+        "Ceasefire violation: This is the second time rockets have been fired from Lebanon into Israel since the ceasefire was established in December, raising concerns about its sustainability.",
+        "Military response: Israel targeted dozens of Hezbollah rocket launchers and a command center in southern Lebanon, according to the Israeli military.",
+        "Civilian impact: Lebanon's health ministry reported that two people were killed and eight were injured in an Israeli airstrike on the village of Toulin.",
+        "Withdrawal dispute: Israel was supposed to withdraw from all Lebanese territory by February 18, but remains in five locations across from northern Israeli communities."
+      ],
+      "quote": "\"Salam warned of renewed military operations on the southern border, because of the risks they carry dragging the country into a new war, which will bring woes to Lebanon and the Lebanese people.\"",
+      "quote_author": "Nawaf Salam, Lebanese Prime Minister",
+      "quote_source_url": "https://www.ndtv.com/world-news/lebanon-warns-of-new-war-after-israels-retaliation-7983683",
+      "quote_source_domain": "ndtv.com",
+      "location": "Lebanon-Israel border",
+      "perspectives": [
+        {
+          "text": "Israeli government: Israel must respond forcefully to rocket attacks to ensure security for northern communities, with Defense Minister Israel Katz stating, \"We promised security to the Galilee communities and that is exactly what will happen.\".",
+          "sources": [
+            {
+              "name": "AP News",
+              "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-03-22-2025-32ca8fa2c5f6e887e1d51b9ffea6f836"
+            }
+          ]
+        },
+        {
+          "text": "Lebanese government: Lebanon risks being drawn into a new devastating war, with Prime Minister Nawaf Salam emphasizing that \"all security and military measures must be taken to show that Lebanon decides on matters of war and peace.\".",
+          "sources": [
+            {
+              "name": "NDTV",
+              "url": "https://www.ndtv.com/world-news/lebanon-warns-of-new-war-after-israels-retaliation-7983683"
+            }
+          ]
+        },
+        {
+          "text": "Israeli opposition: Former Defense Minister Avigdor Lieberman criticized Prime Minister Netanyahu for failing to restore security, saying \"Rockets from Gaza, Yemen, and Lebanon in a single day. The prime minister of October 7 is a danger to.",
+          "sources": [
+            {
+              "name": "NDTV",
+              "url": "https://www.ndtv.com/world-news/lebanon-warns-of-new-war-after-israels-retaliation-7983683"
+            }
+          ]
+        }
+      ],
+      "emoji": "💥",
+      "geopolitical_context": "",
+      "historical_background": "The border tensions stem from Hezbollah's rocket campaign against Israel that began the day after Hamas' October 7, 2023 attack on Israel from Gaza. The conflict escalated into all-out war in September 2024 as Israel carried out massive waves of airstrikes and killed most of Hezbollah's senior leaders before a ceasefire was reached in November 2024.",
+      "international_reactions": [
+        "No significant international reactions were reported in the provided articles."
+      ],
+      "humanitarian_impact": "Saturday's Israeli airstrikes resulted in two people killed and eight injured in the Lebanese village of Toulin, according to Lebanon's health ministry, adding to the more than 4,000 Lebanese deaths from the previous months of conflict.",
+      "economic_implications": "",
+      "timeline": [
+        "October 8, 2023:: Hezbollah begins launching rockets into Israel following Hamas' October 7 attack",
+        "September 2024:: Conflict escalates into all-out war with massive Israeli airstrikes on Lebanon",
+        "November 2024:: Ceasefire agreement reached between Israel and Hezbollah",
+        "February 18, 2025:: Deadline passes for Israeli withdrawal from all Lebanese territory",
+        "March 22, 2025:: Rockets fired from Lebanon trigger Israeli airstrikes in response"
+      ],
+      "future_outlook": "",
+      "key_players": [],
+      "technical_details": "",
+      "business_angle_text": "",
+      "business_angle_points": [],
+      "user_action_items": [
+        "Monitor travel advisories: Check government travel warnings before planning trips to Israel or Lebanon"
+      ],
+      "scientific_significance": [],
+      "travel_advisory": [],
+      "destination_highlights": "",
+      "culinary_significance": "",
+      "performance_statistics": [],
+      "league_standings": "",
+      "diy_tips": "",
+      "design_principles": "",
+      "user_experience_impact": "",
+      "gameplay_mechanics": [],
+      "industry_impact": [],
+      "technical_specifications": "",
+      "articles": [
+        {
+          "title": "Lebanon Warns Of \"New War\" After Israel's Retaliation",
+          "link": "https://www.ndtv.com/world-news/lebanon-warns-of-new-war-after-israels-retaliation-7983683",
+          "domain": "ndtv.com",
+          "date": "2025-03-22T09:44:00+00:00",
+          "image": "https://kagiproxy.com/img/PlMxOs6WyOYHuLUbgleY4KEQJNcOSeLGQD2ZIkNO8vR77PgfySveu-Mw6xBrwqi3oZiheSOfAUFTPBlbvqdplL57mJIIwSn4St0XbHRmetp6kTocFcFKK37ACeTEcuEGmOpX6JxuXmNlQ0JgQ228k-bHuHkX",
+          "image_caption": "Lebanese PM Nawaf Salam has issued a warning that the country might see a new conflict"
+        },
+        {
+          "title": "Israel strikes Lebanon after rockets fired at Israeli targets",
+          "link": "https://www.theglobeandmail.com/world/article-israel-warns-of-severe-response-to-lebanese-rockets-after-vowing-to/",
+          "domain": "theglobeandmail.com",
+          "date": "2025-03-22T11:23:29+00:00",
+          "image": "https://kagiproxy.com/img/mMvfjfNyb30yO7PqNBnj1otEiml0z0ZOKz3C6YvUla29R7UvAwdklKv3rnRj7oa3NDh5F-UvDLnl0qgEEpRL0uR0ODR3IRFJZtU70x5Dk6A26EXG9ovV0KtQD2qNd7Wno5WbEoH_GtYvddafp9j7R2x58zB2HoJ-8g6C1RUWAzreuOA_Q2j1t86vsH9eNGV9lLPgJflJJTQcMOUq41h5WWszxGkyw1PXNTno6mg16LBA6E-2QyzxCvSuaBQWj7OvWz3y5iqaxRFMqe9VAw",
+          "image_caption": "Israeli soldiers stand at the Israeli side of the Israel-Lebanon border, March 22, 2025. REUTERS/Avi Ohayon"
+        },
+        {
+          "title": "Israel Retaliates After Rocket Attack, Strikes Several Targets In Lebanon",
+          "link": "https://www.ndtv.com/world-news/israel-retaliates-after-rocket-attack-strikes-several-targets-in-lebanon-7984226",
+          "domain": "ndtv.com",
+          "date": "2025-03-22T11:10:25+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Israel warns of severe response to strikes from Lebanon after vowing to intensify operations in Gaza",
+          "link": "https://apnews.com/article/israel-palestinians-hamas-war-news-03-22-2025-32ca8fa2c5f6e887e1d51b9ffea6f836",
+          "domain": "apnews.com",
+          "date": "2025-03-22T14:45:39+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Israel strikes Lebanon after first rocket attack since ceasefire",
+          "link": "https://www.bbc.com/news/articles/cn4ynpzk8d8o",
+          "domain": "bbc.com",
+          "date": "2025-03-22T10:45:52+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Israel launches retaliatory strikes on Lebanon amid ceasefire",
+          "link": "https://www.france24.com/en/video/20250322-israel-launches-retaliatory-strikes-on-lebanon-amid-ceasefire",
+          "domain": "france24.com",
+          "date": "2025-03-22T11:18:34+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Live: Netanyahu orders strikes on ‘terror targets’ in Lebanon",
+          "link": "https://www.france24.com/en/middle-east/20250322-cross-border-strikes-with-israel-risk-new-war-lebanon-prime-minister-says",
+          "domain": "france24.com",
+          "date": "2025-03-22T08:19:22+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "One dead as Israel strikes Lebanon after cross-border rocket fire",
+          "link": "https://www.al-monitor.com/originals/2025/03/one-dead-israel-strikes-lebanon-after-cross-border-rocket-fire",
+          "domain": "al-monitor.com",
+          "date": "2025-03-22T12:00:16+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Israel strikes Southern Lebanon in retaliation to rocket attack",
+          "link": "https://www.firstpost.com/world/israel-strikes-southern-lebanon-in-retaliation-to-rocket-attack-13873574.html",
+          "domain": "firstpost.com",
+          "date": "2025-03-22T09:41:27+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Israeli defence minister vows to respond to rocket fired from Lebanon",
+          "link": "https://www.firstpost.com/world/israeli-defence-minister-vows-to-respond-to-rocket-fired-from-lebanon-13873556.html",
+          "domain": "firstpost.com",
+          "date": "2025-03-22T08:04:50+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "At least 5 rockets fired from Lebanon at Metula; IDF responds with artillery fire",
+          "link": "https://www.timesofisrael.com/at-least-5-rockets-fired-from-lebanon-at-metula-idf-responds-with-artillery-fire/",
+          "domain": "timesofisrael.com",
+          "date": "2025-03-22T09:12:23+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "IDF airstrikes target dozens of Hezbollah launchers, command center after rocket fire",
+          "link": "https://www.timesofisrael.com/liveblog-march-22-2025/",
+          "domain": "timesofisrael.com",
+          "date": "2025-03-22T01:19:13+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Israel-Lebanon tensions rise after rockets fired",
+          "link": "https://www.dw.com/en/israel-lebanon-tensions-rise-after-rockets-fired/live-72004158",
+          "domain": "dw.com",
+          "date": "2025-03-22T10:38:00+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Israel fires on Lebanon in response to rockets fired at Israeli targets",
+          "link": "https://www.winnipegfreepress.com/world/2025/03/22/israel-warns-of-severe-response-to-strikes-from-lebanon-after-vowing-to-intensify-operations-in-gaza",
+          "domain": "winnipegfreepress.com",
+          "date": "2025-03-22T09:46:04+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Rockets Fired From Lebanon Prompt Israeli Airstrikes",
+          "link": "https://www.nytimes.com/2025/03/22/world/middleeast/lebanon-israel-rockets-airstrikes-gaza.html",
+          "domain": "nytimes.com",
+          "date": "2025-03-22T11:41:43+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Israel strikes targets in Lebanon after Hizbollah launches rockets",
+          "link": "https://www.ft.com/content/f8b58117-6589-41f8-ad4d-e0906329e92a",
+          "domain": "ft.com",
+          "date": "2025-03-22T11:39:47+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Rockets fired from Lebanon into Israel for first time in months",
+          "link": "https://www.newarab.com/news/rockets-fired-lebanon-israel-first-time-months",
+          "domain": "newarab.com",
+          "date": "2025-03-22T11:07:29+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Israel strikes Lebanon in response to cross-border rocket fire",
+          "link": "https://www.straitstimes.com/world/middle-east/israel-strikes-lebanon-in-response-to-cross-border-rocket-fire",
+          "domain": "straitstimes.com",
+          "date": "2025-03-22T08:03:08+00:00",
+          "image": "",
+          "image_caption": ""
+        }
+      ],
+      "domains": [
+        {
+          "name": "theglobeandmail.com",
+          "favicon": "https://kagiproxy.com/img/fzS6I5GBDP4x3PfTDksboxcrfg4pWNvZovs8TNRKHL8pMsDEtd22zMmKePVyk2BJnVVA_9i0Kn3BQHYkfcs3M0QJj7lXJVuq0e9MQMKr-F3uZa5zOJm_lzw"
+        },
+        {
+          "name": "straitstimes.com",
+          "favicon": "https://kagiproxy.com/img/BVzq_B0StSuGFIzXo3cHqgfbVPSnkx_RX2ML-ZKpX3lMRK8e4dAy6XsiYFJFrz-EttYWMPs0w8ENl5lNo_-qCdfds3DutKDo4VSfzozW9IUjZGFIbuo"
+        },
+        {
+          "name": "al-monitor.com",
+          "favicon": "https://kagiproxy.com/img/GqoK6MmyH_THJBSQYXQeH-7AUdmzoAJpOmVimItGVeNTmjq72jN4RZnP3yKZpvLEviVF42qMzlk5u_9o_5uJ1T87zviQhKeYQdcG6r5AgOI3tOem"
+        },
+        {
+          "name": "apnews.com",
+          "favicon": "https://kagiproxy.com/img/eE73Ma8SAD5T33G1NHhpG77zNHvfouXG5viUrooeaWj-8WMVoAUmQ3f20-e917OUrbyX8tFgUFWVqPr6c-Xbr73sA2D5N1FQCEVwPc1Kqyo"
+        },
+        {
+          "name": "dw.com",
+          "favicon": "https://kagiproxy.com/img/agN4QPbnrR2TWvfxFCpnd1pKBmpePDaO6y7JqzxqPbq4MpRRmXytswcOv1b3c5QrL_JwPb--DI2ewyA9DxQkObYtkSi5Gu-EmRu7xQ"
+        },
+        {
+          "name": "ft.com",
+          "favicon": "https://kagiproxy.com/img/_fdA6QVHwHOid9OzGGZB82o1Qtf5TCGCmsOu4ecM6DCM5aUi-CgwPb6NS3ogxyUacahcKvJOSscnTrB7LEl0-GUFZm54-AhNyKOfnQ"
+        },
+        {
+          "name": "bbc.com",
+          "favicon": "https://kagiproxy.com/img/qX1C57FE1FHJWXXqFYHybsEAXtOMZ9ru4QD7Ial22MWLLJVHNT_Dp292ciI66kI3XZ9Lm62SgJArNrGHcWkVpT_eSjTIPenDTJ86Obo"
+        },
+        {
+          "name": "newarab.com",
+          "favicon": "https://kagiproxy.com/img/mNdWGLVsw11PeZc9p_ekpX8Q5y12UoISAsYDu55EPjcokp5ooBJtubnXAdSOImHmyWrv43IpvQ8Jzsoc_e6HDtVAcKDJpI3NxuIN98dgEPZi"
+        },
+        {
+          "name": "nytimes.com",
+          "favicon": "https://kagiproxy.com/img/sTbucK3DnDQdCDpWSvasRinrDb5J72i6GFsJPfJJS6taqLjarJw_fI5rzgklok8ey1mfbI4YY951NkXTrEEAX3NEe9o9kTdKdBMzYHSU2IaK"
+        },
+        {
+          "name": "winnipegfreepress.com",
+          "favicon": "https://kagiproxy.com/img/zuYSoU6bHdOCJimKZ0kQR2qK8xkJJRIttdiQCiLjd_iKWHRwaOtXJL1Lo18FL3oAdUatv7z4s8kcNhrKPkkHAcJ-YEgILWqtYCHHFUCM9P-2oO2G2FYvJifLDg"
+        },
+        {
+          "name": "firstpost.com",
+          "favicon": "https://kagiproxy.com/img/3G-HLZTDOSXaGpnrerwvQVhZhXWd67gG_SUx6_qHNryYGuRX0fAt3Lj-ewa9MsTcaAVRQzpsYoDxAOvWGPZCGoXnEWaQAC98ZfFcIf53Sl_eKzM"
+        },
+        {
+          "name": "france24.com",
+          "favicon": "https://kagiproxy.com/img/Ra_3PxaiJNjBLzG3ubz4VGZhPYIJHv1lvBdBMAGySXTFY9jH_ZlbBhgNYZLAuh-BIuioAXpPrAdAURfr1zAigGJUyrei6QlG6GPRJx8KVUCaUQ"
+        },
+        {
+          "name": "timesofisrael.com",
+          "favicon": "https://kagiproxy.com/img/Wi8ANfaasL5D0Ommytq4mIPHl4lNbV0J6NGc-aw4nNc4XCcyo9EbWgT9IdXQHfNmV0J_meYzUT3PTMs4yig_hN1geD5VeUTAkO6YFWS2u90hqBiMeS7y"
+        },
+        {
+          "name": "ndtv.com",
+          "favicon": "https://kagiproxy.com/img/C9_J74PnY4eiu23bQ2a-6azhlU48zSwOGQmxaSJVZ1rxsD7LO_9DaJHgD32XAcDK46QnndBgdWKCUOMKfBvG0_PGu_h2TF9t51YZHIsy"
+        }
+      ]
+    },
+    {
+      "cluster_number": 4,
+      "unique_domains": 11,
+      "number_of_titles": 12,
+      "category": "Education",
+      "title": "Columbia University yields to Trump's funding demands",
+      "short_summary": "Columbia University has agreed to implement sweeping policy changes demanded by the Trump administration in order to restore $400 million in federal funding that was frozen earlier this month. The university will place its Middle East studies department under new supervision, overhaul rules for protests and student discipline, adopt a new definition of antisemitism, and expand its Institute for Israel and Jewish Studies, according to interim president Katrina Armstrong's announcement on March 22, 2025.",
+      "did_you_know": "Academic receivership, where administrators take control away from faculty to fix a dysfunctional department, is extremely rare and it is unprecedented for the U.S. government to demand such an action from a university.",
+      "talking_points": [
+        "Funding freeze: The Trump administration pulled $400 million in federal grants and contracts over allegations that Columbia tolerated antisemitism on campus.",
+        "Policy changes: Columbia will ban face masks used to conceal identity, empower security to remove protesters, and bar demonstrations inside academic buildings.",
+        "Academic oversight: A new senior administrator will review curriculum and faculty in several departments to ensure \"balanced\" perspectives.",
+        "Academic freedom: The decision has drawn criticism from faculty and free speech advocates who view it as government interference in university governance.",
+        "Protest context: The funding crisis stemmed from Columbia's handling of protests against Israel's military campaign in Gaza."
+      ],
+      "quote": "Professor Jonathan Zimmerman, an education historian at the University of Pennsylvania and a \"proud\" graduate of Columbia, called it a sad day for academic freedom.",
+      "quote_author": "Jonathan Zimmerman",
+      "quote_source_url": "https://www.dawn.com/news/1899575/columbia-university-agrees-to-trumps-demands-in-attempt-to-restore-funding",
+      "quote_source_domain": "dawn.com",
+      "location": "New York, USA",
+      "perspectives": [
+        {
+          "text": "University administration: Columbia has acquiesced to federal demands to secure vital funding while implementing policy changes they believe will address concerns about antisemitism on campus.",
+          "sources": [
+            {
+              "name": "The Globe and Mail",
+              "url": "https://www.theglobeandmail.com/world/article-under-threat-from-trump-columbia-university-agrees-to-policy-changes/"
+            }
+          ]
+        },
+        {
+          "text": "Academic freedom advocates: The government forcing specific departmental changes and protest policies represents an unprecedented attack on university autonomy and academic freedom.",
+          "sources": [
+            {
+              "name": "Financial Times",
+              "url": "https://www.ft.com/content/af25e2dc-e2d9-4baf-8520-d037b5aa87e3"
+            }
+          ]
+        },
+        {
+          "text": "Trump administration: The funding freeze was necessary to combat what they characterized as antisemitic harassment on campus and ensure intellectual diversity at the university.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2025/3/22/how-columbia-gave-in-to-trumps-demands-to-get-its-400m-funding-back"
+            }
+          ]
+        },
+        {
+          "text": "Student protesters: The new policies represent a crackdown on legitimate pro-Palestinian demonstrations and freedom of expression on campus.",
+          "sources": [
+            {
+              "name": "Deutsche Welle",
+              "url": "https://www.dw.com/en/columbia-university-to-change-policies-under-trump-pressure/a-72003049"
+            }
+          ]
+        }
+      ],
+      "emoji": "🏛️",
+      "geopolitical_context": "",
+      "historical_background": "Columbia University has been the site of prominent student protests since spring 2024, when demonstrations against Israel's military actions in Gaza led to encampments on campus. The university's handling of these protests, including police interventions and student arrests, sparked debates about free speech, antisemitism, and academic freedom that ultimately led to the Trump administration's funding freeze.",
+      "international_reactions": "",
+      "humanitarian_impact": "",
+      "economic_implications": "",
+      "timeline": [
+        "Early 2024:: Pro-Palestinian protests and encampments emerge on Columbia's campus",
+        "March 11, 2025:: Students stage walkout protest regarding ICE agents on campus",
+        "Early March 2025:: Trump administration freezes $400 million in federal funding",
+        "March 22, 2025:: Columbia announces policy changes to comply with Trump demands"
+      ],
+      "future_outlook": "",
+      "key_players": [],
+      "technical_details": "",
+      "business_angle_text": "",
+      "business_angle_points": [],
+      "user_action_items": "",
+      "scientific_significance": [],
+      "travel_advisory": [],
+      "destination_highlights": "",
+      "culinary_significance": "",
+      "performance_statistics": [],
+      "league_standings": "",
+      "diy_tips": "",
+      "design_principles": "",
+      "user_experience_impact": "",
+      "gameplay_mechanics": [],
+      "industry_impact": [
+        "Higher education autonomy: Columbia's compliance could set a precedent for increased government control over university policies and curriculum at institutions receiving federal funding.",
+        "Academic freedom: The requirement to restructure specific departments and change protest policies raises concerns about political influence in academic decisions.",
+        "Protest management: Other universities may adopt similar restrictions on campus demonstrations to avoid similar funding threats."
+      ],
+      "technical_specifications": "",
+      "articles": [
+        {
+          "title": "Under threat from Trump, Columbia University agrees to policy changes",
+          "link": "https://www.theglobeandmail.com/world/article-under-threat-from-trump-columbia-university-agrees-to-policy-changes/",
+          "domain": "theglobeandmail.com",
+          "date": "2025-03-21T21:53:04+00:00",
+          "image": "https://kagiproxy.com/img/OVyM9YhQyf3t2TGt0ImpKtQJbeYn80tRyECD4fDvEXZ1M5UA3rZYyiP16NEpmvrm2BJtwrIQphGG35Ckv4Khzoxs1fOjpIVmneQIpvuNzxT1iqcV_99d7e81LGXjugs9VvMGJeLugrX80BBi8l_timscGnqR59H60NEKnL-v6RizB_4bWd4ImnxVsXunL_p2DErTIqNFOQG95Nv6pwrGr3yTbaMZ1y8vKCA2fLcLIL8696sTr88yE-NVSG90rYK9CSItkDTuJLysD6l4gA",
+          "image_caption": "FILE - Student protesters gather inside their encampment on the Columbia University campus, April 29, 2024, in New York. (AP Photo/Stefan Jeremiah, File)"
+        },
+        {
+          "title": "Columbia University agrees to Trump’s demands in attempt to restore funding",
+          "link": "https://www.dawn.com/news/1899575/columbia-university-agrees-to-trumps-demands-in-attempt-to-restore-funding",
+          "domain": "dawn.com",
+          "date": "2025-03-22T09:58:56+00:00",
+          "image": "https://kagiproxy.com/img/TNveiLglG__qCmV7-uCovOMsIcLa6n7o_FIsW6jsW-T9n4NV2oTVRX_rLdBXdgzxMvguQiMABrvJwWFnNOze74x0Lv2wEEyp3uD3UIVMOY8Cbq88ph-GF88",
+          "image_caption": "Students stage a walk-out protest at Columbia University’s Low Library steps to condemn the presence of U.S. Immigration Customs Enforcement (ICE) agents on campus and call for the release of Mahmoud Khalil in New York City, US on March 11, 2025. — Reuters/Dana Edwards/File"
+        },
+        {
+          "title": "How Columbia gave in to Trump’s demands to get its $400m funding back",
+          "link": "https://www.aljazeera.com/news/2025/3/22/how-columbia-gave-in-to-trumps-demands-to-get-its-400m-funding-back",
+          "domain": "aljazeera.com",
+          "date": "2025-03-22T08:51:14+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Columbia University placates Trump, announces new policies in bid to restore funding",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3303429/columbia-university-placates-trump-announces-policies-bid-restore-funding",
+          "domain": "scmp.com",
+          "date": "2025-03-22T00:25:36+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Columbia University agrees to sweeping policy changes after Trump freezes $400 million funding",
+          "link": "https://www.firstpost.com/world/columbia-university-agrees-to-sweeping-policy-changes-after-trump-freezes-400-million-funding-13873499.html",
+          "domain": "firstpost.com",
+          "date": "2025-03-22T02:43:55+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Columbia University cedes to Trump’s demands with series of reforms",
+          "link": "https://www.ft.com/content/af25e2dc-e2d9-4baf-8520-d037b5aa87e3",
+          "domain": "ft.com",
+          "date": "2025-03-21T22:47:03+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Columbia University to change policies under Trump pressure",
+          "link": "https://www.dw.com/en/columbia-university-to-change-policies-under-trump-pressure/a-72003049",
+          "domain": "dw.com",
+          "date": "2025-03-21T22:21:00+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Under threat from Donald Trump, Columbia University agrees to policy changes",
+          "link": "https://www.thehindu.com/news/international/under-threat-from-trump-columbia-university-agrees-to-policy-changes/article69359756.ece",
+          "domain": "thehindu.com",
+          "date": "2025-03-21T22:03:28+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Under threat from Trump, Columbia University agrees to changes",
+          "link": "https://www.lemonde.fr/en/international/article/2025/03/22/under-threat-from-trump-columbia-university-agrees-to-changes-for-protests-and-middle-east-studies_6739405_4.html",
+          "domain": "lemonde.fr",
+          "date": "2025-03-21T23:41:52+00:00",
+          "image": "",
+          "image_caption": ""
+        }
+      ],
+      "domains": [
+        {
+          "name": "theglobeandmail.com",
+          "favicon": "https://kagiproxy.com/img/607r5J1z9vG5EMy4xAfDPpahl4CYDGEbtPyfzGtbTiNDvf62P1Sxa4nAmZbiLTrdCW_46oKP4oQM3DkVOUEmWKN9VsfnRNdn7zHK7neyP4WjUCtGoJ2ZZGo"
+        },
+        {
+          "name": "scmp.com",
+          "favicon": "https://kagiproxy.com/img/3pSro_lpoJJI7akwTZ29PWq-oNRQ-f6l4bLtt5Qk5Il6q90c9XzSV2UroNOKoWiD7vzw1uz2up9mfqHc_WhuDRUzozB2sff5IFaCbHYb"
+        },
+        {
+          "name": "lemonde.fr",
+          "favicon": "https://kagiproxy.com/img/UQXQz7zG4ewN-0FnsvSAjiyXH6Ed9vUqzQ11RyepxY98Yg6djvn1LgajgTmpabrTZ2_DvB5mTKqWsSv6QtQWr-ejlh8m-sG0gsrZHI9vs70"
+        },
+        {
+          "name": "dawn.com",
+          "favicon": "https://kagiproxy.com/img/NZbXtn8u_4c2rgzmbFF_-qEp84-ALMj7biV3bClQ7YH5TRR4nxrMMqY9HTJ8MSjy7QXnp7rNjOUCRvhmnR-tNW3R_7Qgb9vY4Po9nKZU"
+        },
+        {
+          "name": "aljazeera.com",
+          "favicon": "https://kagiproxy.com/img/_97_5wpWo0QjTfto8UKnReITp2HtBloyYBhovLROutYH7MrMZqh3ZKKqx3Ca3lMNkMnuiC56wInORoviD-LA4qUYbHpMrzj3Gl81YFv396HedaU"
+        },
+        {
+          "name": "ft.com",
+          "favicon": "https://kagiproxy.com/img/IOuNXEnXHriFYC0wLybSCQwXeAfUX23Bt0nA18F8Ugm3vWnjo_duGrLOe6I_GcLf2g2NagFUicOkxrFIZRbvqyQGSN3lCXDkQpmBDA"
+        },
+        {
+          "name": "thehindu.com",
+          "favicon": "https://kagiproxy.com/img/bMPWP5lD_bz7ziSou7bS76Fsv9DveAtU6w3VQm-8gDkK8141oSr2htEmjZea8VyOsO3MOUGuGG031kyfEKcfefyU3c5Sd1ne_nRjIf0IW_mZlA"
+        },
+        {
+          "name": "firstpost.com",
+          "favicon": "https://kagiproxy.com/img/s4PsBtJAn3PofVDc-hzvQtcx6ZaXMxW6hGONOX1GpDufUGz1YrE27JHmX0bzezvo4w3haSdkHjHRLM4sV3ItPGec84I5EfJ2GRVmTYNcA3VzbFE"
+        },
+        {
+          "name": "dw.com",
+          "favicon": "https://kagiproxy.com/img/AJEWqOM-w08j1-g62gydS3pshAIgMO87NJTa5t8_I916aKX1AqaMBhmH53C-TcdY1NDoxLydWfZI-MBuuFZ4Enqgbqu3UtzknZpVEA"
+        }
+      ]
+    },
+    {
+      "cluster_number": 5,
+      "unique_domains": 10,
+      "number_of_titles": 10,
+      "category": "Politics",
+      "title": "Trump revokes security clearances of political rivals",
+      "short_summary": "US President Donald Trump has revoked security clearances for several high-profile political figures including former Vice President Kamala Harris, former Secretary of State Hillary Clinton, and former President Joe Biden. The directive, issued Friday in a presidential memorandum, also targets Biden's family members, former national security officials, and Republican critics of Trump, stating these individuals should no longer have access to classified information.",
+      "did_you_know": "Former US presidents and national security officials traditionally retain security clearances as a courtesy after leaving office, which some use to seek employment with private contractors.",
+      "talking_points": [
+        "Executive action: Trump stated in his memorandum that it is \"no longer in the national interest\" for these individuals to access classified information.",
+        "Affected individuals: The list includes about 15 people, among them former Secretary of State Antony Blinken, former National Security Advisor Jacob Sullivan, and Republican critics like Liz Cheney.",
+        "Facility access: The directive also revokes unescorted access to secure government facilities for those named in the memorandum.",
+        "Reciprocal action: The move appears to be a response to Biden revoking Trump's access to classified documents in 2021, citing concerns about Trump's \"erratic behavior.\""
+      ],
+      "quote": "I hereby direct every executive department and agency head ... to revoke any active security clearances held by the aforementioned individuals. I also direct all executive department and agency heads to revoke unescorted access to secure United States Government facilities from these individuals.",
+      "quote_author": "Donald Trump",
+      "quote_source_url": "https://www.ndtv.com/world-news/after-joe-biden-donald-trump-revokes-security-clearances-of-kamala-harris-hillary-clinton-7982399",
+      "quote_source_domain": "ndtv.com",
+      "location": "Washington, USA",
+      "perspectives": [
+        {
+          "text": "Political retaliation: The move is being viewed as \"another sign of the growing political rift in Washington as Trump seeks revenge on his perceived enemies.\".",
+          "sources": [
+            {
+              "name": "The Hindu",
+              "url": "https://www.thehindu.com/news/international/trump-pulls-security-clearances-for-biden-harris-and-hillary-clinton/article69360793.ece"
+            }
+          ]
+        },
+        {
+          "text": "Trump's viewpoint: Trump, who \"continues to falsely claim that Biden schemed to steal the 2020 election,\" has \"remained furious with his predecessor and lashes out frequently.\".",
+          "sources": [
+            {
+              "name": "NDTV",
+              "url": "https://www.ndtv.com/world-news/after-joe-biden-donald-trump-revokes-security-clearances-of-kamala-harris-hillary-clinton-7982399"
+            }
+          ]
+        },
+        {
+          "text": "Presidential authority: The decision is framed as an exercise of presidential power, with Trump stating he \"determined that it is no longer in the national interest\" for these individuals to access classified information.",
+          "sources": [
+            {
+              "name": "The Globe and Mail",
+              "url": "https://www.theglobeandmail.com/world/article-trump-pulls-security-clearances-for-kamala-harris-hillary-clinton/"
+            }
+          ]
+        }
+      ],
+      "emoji": "🔒",
+      "geopolitical_context": "",
+      "historical_background": "In 2021, then-President Biden revoked Trump's access to classified documents, arguing Trump could not be trusted due to his \"erratic behavior.\" Former presidents have traditionally been briefed on certain matters and allowed access to sensitive information as a courtesy, though they often have no formal security clearance.",
+      "international_reactions": "",
+      "humanitarian_impact": "",
+      "economic_implications": "",
+      "timeline": [
+        "February 2025:: Trump announces intention to rescind security clearance for Biden",
+        "March 10, 2025:: National Intelligence Director Tulsi Gabbard revokes access for Blinken, James and others",
+        "March 21, 2025:: Trump issues memorandum officially revoking clearances for Harris, Clinton, and others"
+      ],
+      "future_outlook": "",
+      "key_players": [],
+      "technical_details": "",
+      "business_angle_text": "",
+      "business_angle_points": [],
+      "user_action_items": "",
+      "scientific_significance": [],
+      "travel_advisory": [],
+      "destination_highlights": "",
+      "culinary_significance": "",
+      "performance_statistics": [],
+      "league_standings": "",
+      "diy_tips": "",
+      "design_principles": "",
+      "user_experience_impact": "",
+      "gameplay_mechanics": [],
+      "industry_impact": [
+        "National security establishment: The precedent could disrupt the traditional transition between administrations and reduce cooperation among former officials.",
+        "Defense contractors: Former officials who rely on security clearances for private sector employment may find their job opportunities limited.",
+        "Political norms: The move further erodes the tradition of post-administration courtesy that has been part of US political transitions."
+      ],
+      "technical_specifications": "",
+      "articles": [
+        {
+          "title": "Donald Trump Revokes Security Clearances Of Kamala Harris, Hillary Clinton",
+          "link": "https://www.ndtv.com/world-news/after-joe-biden-donald-trump-revokes-security-clearances-of-kamala-harris-hillary-clinton-7982399",
+          "domain": "ndtv.com",
+          "date": "2025-03-22T06:22:37+00:00",
+          "image": "https://kagiproxy.com/img/YQaoKvQ97ilaMYgIi9BgZaG2i_Go3c2sWY1bkDlCdFYRCJf0c9-PpfJvFOpJrRPkxIJzLU1jQdYiCDhiY_TDErcFcZFryRzVw5gAtz4FA-ZpIqxzCaCkpW8VhHlCbLNVSHDi6Lc6yR3haLeDVF0UOkAYgbwgRwBm-kQ",
+          "image_caption": "Former US presidents and national security officials traditionally retain security clearance as courtesy."
+        },
+        {
+          "title": "Trump pulls security clearances for Kamala Harris, Hillary Clinton",
+          "link": "https://www.theglobeandmail.com/world/article-trump-pulls-security-clearances-for-kamala-harris-hillary-clinton/",
+          "domain": "theglobeandmail.com",
+          "date": "2025-03-22T03:03:14+00:00",
+          "image": "https://kagiproxy.com/img/groKKsZD54QVvrivjpyCQXQN2RmE694z8axlk5pYV0Jra4MkfNVRToVvAjcjXnZ6jkr0he7kztdcvbOCHicsll_ZVv_BAvab9BVAzw70_okCQCFlOk-WBYkUxn3Mg6lHpaWiMH14ydjbUXxE1zdPTwjaRGw-lNkcxNWVAgHsI_W22w2Q2tqu-uGnWCk9gGuBL1S--hKSVcQd84m9uZfdLAuG8z6s1vXEHbsn2rM2NFLTT6io5LnG_TKXdSLBOWDZVlmTgsJ6J21wfiIIZA",
+          "image_caption": "FILE PHOTO: Former U.S. Secretary of State Hillary Clinton makes a campaign stop in Tampa, encouraging early voting among Democratic supporters at \"Casa Kamala\" for U.S. Vice President Kamala Harris and other state and local candidates on the ballot in Tampa, Florida, U.S., November 2, 2024. REUTERS/Octavio Jones/File Photo"
+        },
+        {
+          "title": "Trump targets Biden, Harris in US security clearance purge",
+          "link": "https://www.aljazeera.com/news/2025/3/22/trump-revokes-security-clearances-of-biden-harris-and-clinton",
+          "domain": "aljazeera.com",
+          "date": "2025-03-22T07:14:28+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Trump revokes security clearance for Harris, Clinton and others",
+          "link": "https://www.bbc.com/news/articles/c74kg3e2m08o",
+          "domain": "bbc.com",
+          "date": "2025-03-22T08:27:24+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Trump revokes security clearances for Biden Harris, Clinton, other political foes",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3303435/trump-revokes-security-clearances-kamala-harris-hillary-clinton-other-political-foes",
+          "domain": "scmp.com",
+          "date": "2025-03-22T03:01:36+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Trump revokes security clearances of Biden, and other former officials",
+          "link": "https://www.firstpost.com/world/trump-revokes-security-clearances-of-biden-and-other-former-officials-13873513.html",
+          "domain": "firstpost.com",
+          "date": "2025-03-22T06:03:49+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Trump revokes security clearance for Kamala Harris and Hillary Clinton",
+          "link": "https://www.ft.com/content/865ee17c-4174-475d-8c78-816c6fbe2003",
+          "domain": "ft.com",
+          "date": "2025-03-22T04:16:58+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Trump revokes security clearances for Biden, Harris, Clinton and other enemies",
+          "link": "https://www.politico.com/news/2025/03/21/trump-revokes-security-clearance-for-biden-harris-clinton-and-other-enemies-00244081",
+          "domain": "politico.com",
+          "date": "2025-03-22T10:05:30+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Trump pulls security clearances for Biden, Harris and Hillary Clinton",
+          "link": "https://www.thehindu.com/news/international/trump-pulls-security-clearances-for-biden-harris-and-hillary-clinton/article69360793.ece",
+          "domain": "thehindu.com",
+          "date": "2025-03-22T05:26:36+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Trump revokes security clearances for Biden, Harris and Clinton",
+          "link": "https://www.abc.net.au/news/2025-03-22/trump-revokes-security-clearances-for-biden-harris-and-clinton/105084834",
+          "domain": "abc.net.au",
+          "date": "2025-03-22T05:44:04+00:00",
+          "image": "",
+          "image_caption": ""
+        }
+      ],
+      "domains": [
+        {
+          "name": "theglobeandmail.com",
+          "favicon": "https://kagiproxy.com/img/PW7br8_pLMC9GMyFrKb6AkC1b-2_Xpg19AdmrH7C6G0ETbP8BJ0Qn0A2hxcdTnV1XK-RNQjmuWBVDT9I3JkpU-bBuGKyhjqvtZocllHz1chnBgo0FbX9yXA"
+        },
+        {
+          "name": "scmp.com",
+          "favicon": "https://kagiproxy.com/img/D-_NrTz4cihUp0dfsvSl-UVh1fbYSrDk2zr-kLwL2-ph4l9ASghn3BbzJMNUhlooJr2YcLTaro1QBujVOpviZZ_ytj6KzEMbS3VCKx3j"
+        },
+        {
+          "name": "abc.net.au",
+          "favicon": "https://kagiproxy.com/img/bIGLVMXI6vC4irwWoiN0eIVU4wUePq69Fl_4UBVABEpUKMLAv6MUrULWwqSAgt2vjP8G0nPZeI6jqB_YxCnHQnuBwOxXpMBYoPy76r6ho2Y"
+        },
+        {
+          "name": "politico.com",
+          "favicon": "https://kagiproxy.com/img/WXDZYlIVqUvoFuxY21UYngCe73DeVPxcPLapxX69ppgwJAP0ha9So9HqSbxogg_Orf4bZ_oa2QaBoCtswXaBDGskgEF_wr4F6w58iRwdMov5Pg"
+        },
+        {
+          "name": "aljazeera.com",
+          "favicon": "https://kagiproxy.com/img/RqQWRxfow9Wq1PuTB5GTcyHCSbjlrgiVqzIgNO3IZFkcq4TBUy--SlsOnTarFXbbzxCJ0cuvSkUE5vy9csQeleqpfcdzF_qfupC079IDKsLXv9g"
+        },
+        {
+          "name": "ft.com",
+          "favicon": "https://kagiproxy.com/img/BInabutSHHP7y601TdeWN-HjWVMOGI9X8hvmKpMkaln8mt9DVZ4B8KbrEOzwZ0SLCG4Lv_xivhmCeoMvavRn55LOkM5U_Zta-QQfkg"
+        },
+        {
+          "name": "bbc.com",
+          "favicon": "https://kagiproxy.com/img/Kpl7hBgEbbTGsjzyb-m9U-ZlHlOxfgW-FlB5RhIMuCzn-qK-89_VeuP4dz0c31Gt-ZGYe3SWTXwJbRW7CFN2xq2vVoMQOwA7GJwecA4"
+        },
+        {
+          "name": "thehindu.com",
+          "favicon": "https://kagiproxy.com/img/ThYf4jiQjiXirUSxhE6ExZR9_jTvMmEu7Ls3Tg2ZHE8eUR3SOQOozCv9vsIHQVS974JD9qOwOK50SnaoVueL6Q-Bfbe405siE5OAa5sbW94oEg"
+        },
+        {
+          "name": "firstpost.com",
+          "favicon": "https://kagiproxy.com/img/TDSmoHAkfJCx4crvBaS-5BHdx4ciO7TasqvmlIrbbCpjzsSyMFDpogCSy6_J5TvED0OH7sffSzTkC6r7ONPjnNPYA1_yPHcF2cOpd8sZ55VZRoc"
+        },
+        {
+          "name": "ndtv.com",
+          "favicon": "https://kagiproxy.com/img/EA96yaGjA5zq-4WdXzHUUlZJf5eK9OWrLjcm5AnwlYLJBIrlnU_M9fWL1MfRPSlG9mFECk_E8btpOUuKmTqt_ZFn1vypP3JSBrZA8inN"
+        }
+      ]
+    },
+    {
+      "cluster_number": 6,
+      "unique_domains": 10,
+      "number_of_titles": 13,
+      "category": "Conflict",
+      "title": "Sudan army recaptures presidential palace in Khartoum",
+      "short_summary": "Sudan's military has recaptured the presidential palace in Khartoum from the paramilitary Rapid Support Forces (RSF) after nearly two years of civil war. Following this significant gain, the army has also seized control of several key buildings including the central bank, potentially strengthening its position in the capital. The RSF retaliated with a drone strike that killed three journalists and several army personnel.",
+      "did_you_know": "The war in Sudan has created the world's largest hunger and displacement crises, uprooting more than 12 million people since April 2023.",
+      "talking_points": [
+        "Territorial control: The conflict has effectively split Sudan, with the army holding the east and north while the RSF controls most of Darfur and parts of the south.",
+        "Strategic importance: The battle for Khartoum's government and financial district could solidify the military's hold on the capital, providing a significant advantage in the war.",
+        "Retaliatory strike: Hours after losing the palace, the RSF launched a drone attack that killed three state television journalists and several soldiers.",
+        "Regional impact: Neighboring Chad is struggling to support over a million Sudanese refugees amid dwindling aid resources."
+      ],
+      "quote": "\"Our forces achieved further success last night, eliminating hundreds of militia members who tried to escape through pockets in central Khartoum.\"",
+      "quote_author": "Nabil Abdallah, Sudan army spokesman",
+      "quote_source_url": "https://www.newarab.com/news/sudanese-army-retakes-central-bank-after-palace-recapture",
+      "quote_source_domain": "newarab.com",
+      "location": "Khartoum, Sudan",
+      "perspectives": [
+        {
+          "text": "Sudanese military: Claims complete control of the presidential palace and other key buildings in central Khartoum, presenting this as a major victory in the two-year conflict.",
+          "sources": [
+            {
+              "name": "France 24",
+              "url": "https://www.france24.com/en/video/20250322-sudan-army-says-retakes-key-buildings-in-central-khartoum"
+            }
+          ]
+        },
+        {
+          "text": "Rapid Support Forces: Counters that they remain in the vicinity of the palace and launched an attack that killed dozens of army soldiers inside, disputing the extent of the army's control.",
+          "sources": [
+            {
+              "name": "Dawn",
+              "url": "https://www.dawn.com/news/1899536/sudanese-army-takes-control-of-presidential-palace"
+            }
+          ]
+        },
+        {
+          "text": "Neutral analysts: View the recapture as significant but note the country remains effectively partitioned, with the RSF consolidating control in western regions and setting up parallel governance structures.",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c5y06pygdj7o"
+            }
+          ]
+        },
+        {
+          "text": "Humanitarian organizations: Focus on the devastating impact on civilians, with Chad and other neighboring countries overwhelmed by refugees amid dwindling international aid resources.",
+          "sources": [
+            {
+              "name": "France 24",
+              "url": "https://www.france24.com/en/video/20250322-chad-under-growing-pressure-as-sudanese-refugees-overwhelm-aid-capacity"
+            }
+          ]
+        }
+      ],
+      "emoji": "🏛️",
+      "geopolitical_context": "",
+      "historical_background": "The war erupted in April 2023 over disagreements about the integration of the paramilitary Rapid Support Forces into the regular armed forces. The RSF, led by Mohamed Hamdan Daglo (former deputy to army chief Abdel Fattah al-Burhan), quickly seized the presidential palace and most of Khartoum at the beginning of the conflict.",
+      "international_reactions": "",
+      "humanitarian_impact": "The two-year civil war has killed tens of thousands of people and displaced more than 12 million, with neighboring Chad hosting over one million Sudanese refugees who face severe shortages of food, shelter, and medical assistance as aid resources dwindle.",
+      "economic_implications": "",
+      "timeline": [
+        "April 2023:: War erupts between Sudanese army and RSF over military integration disagreements",
+        "April 2023:: RSF quickly seizes presidential palace and most of Khartoum",
+        "Early 2025:: Army begins making territorial gains in central Sudan",
+        "March 21, 2025:: Army recaptures presidential palace in Khartoum",
+        "March 22, 2025:: Military seizes central bank and other key buildings in downtown Khartoum"
+      ],
+      "future_outlook": "",
+      "key_players": [],
+      "technical_details": "",
+      "business_angle_text": "",
+      "business_angle_points": [],
+      "user_action_items": "",
+      "scientific_significance": [],
+      "travel_advisory": [],
+      "destination_highlights": "",
+      "culinary_significance": "",
+      "performance_statistics": [],
+      "league_standings": "",
+      "diy_tips": "",
+      "design_principles": "",
+      "user_experience_impact": "",
+      "gameplay_mechanics": [],
+      "industry_impact": [],
+      "technical_specifications": "",
+      "articles": [
+        {
+          "title": "Sudanese army takes control of presidential palace",
+          "link": "https://www.dawn.com/news/1899536/sudanese-army-takes-control-of-presidential-palace",
+          "domain": "dawn.com",
+          "date": "2025-03-22T05:49:33+00:00",
+          "image": "https://kagiproxy.com/img/p19bdpwIuyAYFJ4lJSVcpRbzwtMiQBPkI0RsdlteDZys6lbbdEAWZTehWKNeg5jALcs8S4FyEKzsYtm5BOjugKRxTLqxgNmCnXPVUfG4",
+          "image_caption": "An image grab taken from a video released by the Saudi news network Al Arabiya shows Sudanese soldiers walking around in the presidential palace in Khartoum, on Friday.—AFP"
+        },
+        {
+          "title": "Sudanese army seizes presidential palace after two years of civil war",
+          "link": "https://www.abc.net.au/news/2025-03-22/sudanese-army-seizes-presidential-palace-amid-civil-war/105084548",
+          "domain": "abc.net.au",
+          "date": "2025-03-22T04:17:22+00:00",
+          "image": "https://kagiproxy.com/img/ESWcZXtWwgK-3CLnRRPsxV5dF6kOzeG-Y7VT5Ic-FNHNCeWNOuNMtXJUdIkBEtjAafpxmBTATU6ZTahoHcPvVr04YJ_hIX5MD_mi1jvznxgxH6WOCr92Y9bCcCyBKn4FGmbUjettmphl_AZyt2hvpSMF7IOs8ixFPuFO4pSKXSLP0fbjwmyUaBagA5VdBB6snAfDniQ8bv2t5RtOL3oFvMxcEz6znTb0ASiN8uoMLMTZael65NkSfZGftaYG",
+          "image_caption": "Soldiers from the Sudanese Armed Forces celebrate after taking over the Republican Palace in Khartoum."
+        },
+        {
+          "title": "Will recapture of presidential palace change course of Sudan war?",
+          "link": "https://www.bbc.com/news/articles/c5y06pygdj7o",
+          "domain": "bbc.com",
+          "date": "2025-03-21T22:22:54+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Chad’s hosting capacity under strain amid influx of Sudanese refugees",
+          "link": "https://www.france24.com/en/video/20250322-chad-under-growing-pressure-as-sudanese-refugees-overwhelm-aid-capacity",
+          "domain": "france24.com",
+          "date": "2025-03-22T10:14:43+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Sudan army says retakes key buildings in central Khartoum",
+          "link": "https://www.france24.com/en/video/20250322-sudan-army-says-retakes-key-buildings-in-central-khartoum",
+          "domain": "france24.com",
+          "date": "2025-03-22T10:02:44+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Sudan army retakes presidential palace",
+          "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20250321-sudan-army-retakes-presidential-palace",
+          "domain": "france24.com",
+          "date": "2025-03-21T22:36:12+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Sudan military seizes central bank, other key buildings in Khartoum",
+          "link": "https://www.firstpost.com/world/sudan-military-seizes-central-bank-other-key-buildings-in-khartoum-13873568.html",
+          "domain": "firstpost.com",
+          "date": "2025-03-22T09:17:46+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Sudanese military says it seized key buildings in Khartoum after retaking the Republican Palace",
+          "link": "https://www.winnipegfreepress.com/world/2025/03/22/sudanese-military-says-it-seized-key-buildings-in-khartoum-after-retaking-the-republican-palace",
+          "domain": "winnipegfreepress.com",
+          "date": "2025-03-22T10:46:08+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Sudanese army retakes central bank after palace recapture",
+          "link": "https://www.newarab.com/news/sudanese-army-retakes-central-bank-after-palace-recapture",
+          "domain": "newarab.com",
+          "date": "2025-03-22T09:31:21+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Sudan army says it has control of presidential palace in Khartoum",
+          "link": "https://japantoday.com/category/world/sudan-army-says-it-has-control-of-presidential-palace-in-khartoum2",
+          "domain": "japantoday.com",
+          "date": "2025-03-21T21:04:01+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Sudan's army takes control of the presidential palace, 2 years after war broke out",
+          "link": "https://www.npr.org/2025/03/22/nx-s1-5336313/sudans-army-takes-control-of-the-presidential-palace-2-years-after-war-broke-out",
+          "domain": "npr.org",
+          "date": "2025-03-22T12:05:25+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "The Sudanese Armed Forces retakes the presidential palace in Khartoum, Sudan, after the Rapid Support Forces' withdrawal.",
+          "link": "https://www.bbc.co.uk/news/live/c5y0w7pjnp2t",
+          "domain": "bbc.co.uk",
+          "date": "2025-03-22T00:00:00+00:00",
+          "image": "",
+          "image_caption": ""
+        }
+      ],
+      "domains": [
+        {
+          "name": "abc.net.au",
+          "favicon": "https://kagiproxy.com/img/mJZI6XvOuSkk0tLxK6iuyE-KwkYKPRqL2Sbxdl8k8DMEeoiselgJKeN7BoIzUvYQR8xGMA9zAOMelANRKyD2AxNUa4PU-p0_LCaFTtQGxhg"
+        },
+        {
+          "name": "japantoday.com",
+          "favicon": "https://kagiproxy.com/img/r4ULOIRYFmi0p281R27ddB07C3XaNA0Z7GFk4MLWmx_LlwIrJeTALT3TwwEP9N-5sNAfL0Ar3aZJBWQ2Z8FVM4Y6vuIJq_A46XI7JcZ6kv1zMmee"
+        },
+        {
+          "name": "dawn.com",
+          "favicon": "https://kagiproxy.com/img/RPBJvov1-A8GoKGE3G-9oanXqx6n3FajJP99pxDTj7TFb6GLbevjRupA-iWVTdUUx_RDapZ7BXud_Wv8WQ55bpCHjPTmo3PzbO0lp8zz"
+        },
+        {
+          "name": "bbc.com",
+          "favicon": "https://kagiproxy.com/img/HB6taiZ6UGJTvuA6MJRGwhV3egynDUIU6jdGIQBe4nMx64fjsyspqe9b8eTnDB5lBI6jwqq3RNz2Bape5Kmvl_yo9Zni1AtRoE4BUCQ"
+        },
+        {
+          "name": "newarab.com",
+          "favicon": "https://kagiproxy.com/img/MVt3eTB4SjhTMYhUx0t8VHgYCdwfTck5-zY56XLFB_i8H0pJy97a1QgMoEPUjjbONMZ1ulnp-SAV7CYgqhu_3mSRpdvac1DG7OUkX_uWp_bi"
+        },
+        {
+          "name": "winnipegfreepress.com",
+          "favicon": "https://kagiproxy.com/img/AgTqTTp_vtBsXzlfT0v_1piOGeX2xHGykwl3HTBpGlM-RkPHVb8i6ChpDRSBV4yP0WjH7hlvy9jCA7A2TX3eboE3YBgv2Px2_igylu8oKdl2KCDYKYhBunm-9g"
+        },
+        {
+          "name": "bbc.co.uk",
+          "favicon": "https://kagiproxy.com/img/AXu5i-4bxc-BjLbv0Wc5hDd3HKs5tnLhuQyrs_gjVpvjSTr8-jXv565ENYmdJoLP3zNbSTK9AO7-XIEzQMgz6wOB_PQus75rsbCnJRB9Ig"
+        },
+        {
+          "name": "firstpost.com",
+          "favicon": "https://kagiproxy.com/img/36QjkMQepUozN1CdP0Tqmzy-zi3yWyYK-JEl5IE29UBBnJLKhTZR0Fs96GZZRBQu720Pgt5pSkPkv7QONwASiOyRrqtQJ6G0QAaIxbdMR_5hL14"
+        },
+        {
+          "name": "france24.com",
+          "favicon": "https://kagiproxy.com/img/PIoMBe2xHC28zBj0Ek-o1-bTLI3vIQ4nZv_vxEeZMD4e_ormSY4HLLzbe_xfhLICO4p2M-a8TfjUmM1abhxb0Od0n2GnRSE2INO7Jww7iTke7g"
+        },
+        {
+          "name": "npr.org",
+          "favicon": "https://kagiproxy.com/img/FMnG5lJtQ81mhkApGjfBolw6v1ZdZDBR-78iEWbcA1ZSChOohLJnzld0JwFRvWM36D6BUmRKUmgiXlRKorYR7UM7OuJ30svAQGJBnyk"
+        }
+      ]
+    },
+    {
+      "cluster_number": 7,
+      "unique_domains": 10,
+      "number_of_titles": 13,
+      "category": "Sports",
+      "title": "Boxing legend George Foreman dies at 76",
+      "short_summary": "Two-time world heavyweight boxing champion George Foreman has died peacefully on March 21, 2025, at the age of 76, surrounded by his family. The American boxer, known as 'Big George,' had an illustrious career spanning decades, winning Olympic gold in 1968 and becoming the oldest heavyweight champion in history when he reclaimed the title at age 45 in 1994, following his first championship win in 1973.",
+      "did_you_know": "George Foreman became the oldest heavyweight boxing champion in history when he reclaimed the title at age 45 in 1994.",
+      "talking_points": [
+        "Iconic rivalry: Foreman lost his first world title to Muhammad Ali in the famous 1974 \"Rumble in the Jungle\" match in Kinshasa.",
+        "Remarkable comeback: After retiring to become an ordained minister, Foreman returned to boxing in 1987 at age 38 and fought his way back to championship status.",
+        "Business success: Beyond boxing, Foreman became a successful entrepreneur with the George Foreman Grill, which turned into a household name.",
+        "Personal transformation: From a troubled youth who dropped out of school to an Olympic gold medalist, Foreman's life story represented resilience and reinvention.",
+        "Impressive record: Foreman retired in 1997 with 76 wins (68 by knockout) and only 5 losses throughout his professional career."
+      ],
+      "quote": "\"It was like I was mugged. I went with two title belts and came home with none.\"",
+      "quote_author": "George Foreman",
+      "quote_source_url": "https://www.bbc.com/news/videos/cjevjnejdg9o",
+      "quote_source_domain": "bbc.com",
+      "location": "",
+      "perspectives": [],
+      "emoji": "🥊",
+      "geopolitical_context": "",
+      "historical_background": "Foreman rose from poverty in the segregated American South, joining the Job Corps as a troubled teenager which he later credited with \"rescuing him from the gutter.\" His boxing career began in the amateur ranks, culminating in Olympic gold at Mexico City in 1968 before he turned professional and dominated the heavyweight division in the early 1970s.",
+      "international_reactions": "",
+      "humanitarian_impact": "",
+      "economic_implications": "",
+      "timeline": [
+        "January 10, 1949:: George Foreman born in Marshall, Texas",
+        "1968:: Wins Olympic heavyweight gold medal in Mexico City",
+        "1973:: Wins first world heavyweight championship",
+        "October 30, 1974:: Loses title to Muhammad Ali in \"Rumble in the Jungle\"",
+        "1977:: Retires from boxing to become an ordained minister",
+        "1987:: Returns to boxing at age 38",
+        "1994:: Reclaims heavyweight title at age 45",
+        "1997:: Retires from boxing with a 76-5 record",
+        "March 21, 2025:: Dies peacefully surrounded by family"
+      ],
+      "future_outlook": "",
+      "key_players": [],
+      "technical_details": "",
+      "business_angle_text": "",
+      "business_angle_points": [],
+      "user_action_items": "",
+      "scientific_significance": [],
+      "travel_advisory": [],
+      "destination_highlights": "",
+      "culinary_significance": "",
+      "performance_statistics": [
+        "Career record: 76 wins (68 by knockout) and only 5 losses in professional boxing",
+        "Olympic success: Gold medal winner at the 1968 Olympics in Mexico City",
+        "Championships: Two-time world heavyweight champion (1973 and 1994)",
+        "Fighter recognition: Named Fighter of the Year by The Ring magazine in 1973 and 1976",
+        "Age milestone: Became oldest heavyweight champion in history at age 45"
+      ],
+      "league_standings": "",
+      "diy_tips": "",
+      "design_principles": "",
+      "user_experience_impact": "",
+      "gameplay_mechanics": [],
+      "industry_impact": [],
+      "technical_specifications": "",
+      "articles": [
+        {
+          "title": "George Foreman, heavyweight boxer and purveyor of grills, dies at 76",
+          "link": "https://www.dawn.com/news/1899570/george-foreman-heavyweight-boxer-and-purveyor-of-grills-dies-at-76",
+          "domain": "dawn.com",
+          "date": "2025-03-22T04:48:52+00:00",
+          "image": "https://kagiproxy.com/img/spDyo8GU1iwh5XcTVQwKIi6rlgH7qbzZXMlUSipbs2CYpylOZz59i5XSCV3E9nm4E-QxWHvohGI1PxrOJU2lEt3KFQx1BkZ-lT36Kyytu1EbeuhXt50rFqA",
+          "image_caption": "World Boxing Union (WBU) heavyweight champion George Foreman of the US shows off his muscles during a press conference at a Tokyo hotel on Oct 27, 1996. — AFP/File"
+        },
+        {
+          "title": "US boxer George Foreman dies aged 76",
+          "link": "https://www.abc.net.au/news/2025-03-22/george-foreman-us-boxer-dies-aged-76/105084628",
+          "domain": "abc.net.au",
+          "date": "2025-03-22T02:07:19+00:00",
+          "image": "https://kagiproxy.com/img/oOa6pK0C_S76BsmD-hL1GMhJwLwwusVlhePznecFPo9ASZAF8F2ZM94q8m73ss8aYuoHWvGMViy1JxaIegiS5oRYtQSBxL366DHWnTz9JMLlYoc9LqjNU0juuFxF642XLL3_HN0ZqsJ3re-fHj-3JkB0m4zVAQTurpm8kptSryEaq1zXAJMhUzwt9Bznw0D0gIQdptJfKv7yCejD--8ibY_w6LqOoDOjuzOm8krxtipEATpfNyPhNEkKfq4W",
+          "image_caption": "Former heavyweight champion George Foreman has died aged 76."
+        },
+        {
+          "title": "Boxing legend George Foreman dies at 76",
+          "link": "https://www.rt.com/news/614622-boxer-george-foreman-dies/",
+          "domain": "rt.com",
+          "date": "2025-03-22T12:07:18+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "World heavyweight boxing champion George Foreman dies at 76",
+          "link": "https://www.aljazeera.com/sports/2025/3/22/boxing-heavyweight-champion-george-foreman-dies-at-76",
+          "domain": "aljazeera.com",
+          "date": "2025-03-22T07:40:05+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Heavyweight boxing legend George Foreman dies aged 76",
+          "link": "https://www.bbc.com/news/articles/ckg8ez8201yo",
+          "domain": "bbc.com",
+          "date": "2025-03-22T08:06:34+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "George Foreman's life in pictures",
+          "link": "https://www.bbc.com/news/articles/cd659xxn793o",
+          "domain": "bbc.com",
+          "date": "2025-03-22T05:03:59+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "'It was like I was mugged' - Foreman reflects on Rumble in the Jungle",
+          "link": "https://www.bbc.com/news/videos/cjevjnejdg9o",
+          "domain": "bbc.com",
+          "date": "2025-03-22T07:38:30+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Heavyweight boxing champion George Foreman dies aged 76",
+          "link": "https://www.france24.com/en/video/20250322-heavyweight-boxing-champion-george-foreman-dies-aged-76",
+          "domain": "france24.com",
+          "date": "2025-03-22T10:20:28+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Heavyweight boxing champion George Foreman dies, aged 76",
+          "link": "https://www.france24.com/en/live-news/20250322-heavyweight-boxing-great-george-foreman-dead-at-76-family-1",
+          "domain": "france24.com",
+          "date": "2025-03-22T02:33:20+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Former world boxing champion George Foreman dies at 76",
+          "link": "https://tass.com/sports/1932453",
+          "domain": "tass.com",
+          "date": "2025-03-22T03:40:30+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "George Foreman, boxing champion and entrepreneur, dies aged 76",
+          "link": "https://www.theguardian.com/sport/2025/mar/22/boxing-champion-george-foreman-dies-at-age-76",
+          "domain": "theguardian.com",
+          "date": "2025-03-22T02:29:35+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Boxing legend George Foreman dies aged 76",
+          "link": "https://www.dw.com/en/boxing-legend-george-foreman-dies-aged-76/a-72003819",
+          "domain": "dw.com",
+          "date": "2025-03-22T03:14:00+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Heavyweight boxing champion George Foreman dies at 76",
+          "link": "https://www.lemonde.fr/en/obituaries/article/2025/03/22/heavyweight-boxing-champion-george-foreman-dies-at-76_6739409_15.html",
+          "domain": "lemonde.fr",
+          "date": "2025-03-22T02:29:02+00:00",
+          "image": "",
+          "image_caption": ""
+        }
+      ],
+      "domains": [
+        {
+          "name": "abc.net.au",
+          "favicon": "https://kagiproxy.com/img/bqFPjusBTtJWPmJ24Y6TZILwW5PxIznnygudM9M7JwU_3MF3toHC56wVJezUg8exsjo_S3ikxGiiUhK9IKV2vPs4JSbYQPCFsXBrAIxxvPo"
+        },
+        {
+          "name": "lemonde.fr",
+          "favicon": "https://kagiproxy.com/img/CsGer3l15GwkgdT6NKHVbuB-_Znl6gjS9yNI0ZIz-0BVYp9xob3VzWUzm7usTgorEaB_xXBL9j-1uel0bB3yQA5QgA02xtatHaGNykdlZVM"
+        },
+        {
+          "name": "dawn.com",
+          "favicon": "https://kagiproxy.com/img/93412wJCy-_ENmuq8FmlI1iP3ktceSl8upwAIbFYikO4FZtNkUuhyA8tBU2VlDWz4MVi7kaVo6XA4N_NbRKJjFP46rfr2vYyK-jHli4C"
+        },
+        {
+          "name": "aljazeera.com",
+          "favicon": "https://kagiproxy.com/img/r4elNbP98sQEcHst50F4N1yKRy5h5VRCYj4jeq-yl4rW67UGIiijneGc-glX98PdO03tfmEqNBZibQeYAwPaUMqtMhBfHhi0cHM8t6BVMTraj4A"
+        },
+        {
+          "name": "theguardian.com",
+          "favicon": "https://kagiproxy.com/img/SNpSAQ-IlBY4Sf02CO3eYZZ553PGBjiVe8DAU39I5hVIFSOdC6O1PEnQHWWH1ObrMn7PJdCqEip3eK2MvGeydPyLtG-n2GpHJrP-cuHE-BqstqKqow"
+        },
+        {
+          "name": "bbc.com",
+          "favicon": "https://kagiproxy.com/img/GkgwbOlCOFedjltNIyGjxpJ-k9GajeKSbQvDdvFXnubdSRR7RuXX3IDQlRc8Or_35lhv7TeAFUOY7KsHXm3yiL1D__cmoaPju2asuGY"
+        },
+        {
+          "name": "rt.com",
+          "favicon": "https://kagiproxy.com/img/N16m5014a3JXTme-WcqRJSafYWPBgH_MOPkGjZ2aFtTngD61vqyXwDK-H0AwdzV9kQj75gcPkDVZ6EWtOR2nTeCsdqx8RMlj3UBRiw"
+        },
+        {
+          "name": "tass.com",
+          "favicon": "https://kagiproxy.com/img/mogYIZ967vkT9ogDKuw2hjbwRynI10wTNifYHOhnEWjPAWgIMExip6CPjavq475IiugNwP_Pqd26C5JnxjTWmggUqUdPyFsNMdBLuF_Y"
+        },
+        {
+          "name": "france24.com",
+          "favicon": "https://kagiproxy.com/img/p80j9f5b3oGSkSnMOMupOoDzKn4r5MyU2Zw57SaNvmPZCDfkLzqE7U6eSUdIAkXZslApgvviZv2hJDfaJk0l6jhU4Za3xdYhlvl3h3bu2rLk4A"
+        },
+        {
+          "name": "dw.com",
+          "favicon": "https://kagiproxy.com/img/OkGJ_J_NkjZSSrul1M0-GeBOcExAQ8ZnLSdyYKLpAxdHKgKR8Du1RPwCFNUYJKzw4Qqy8cL9Agwmdqk4bOmbCkq2fCcgp3nTVlvp2A"
+        }
+      ]
+    },
+    {
+      "cluster_number": 8,
+      "unique_domains": 9,
+      "number_of_titles": 11,
+      "category": "Conflict",
+      "title": "Israel destroys Gaza's only cancer hospital",
+      "short_summary": "Israeli forces destroyed Gaza's only specialized cancer hospital, the Turkish-Palestinian Friendship Hospital, during their deeper push into the territory on March 21, 2025. The Israeli military confirmed the operation, while Gaza's Health Ministry condemned it as a \"heinous crime\" that will have catastrophic consequences for patients needing urgent care. This development comes amid intensified Israeli military operations across Gaza that have resulted in hundreds of Palestinian casualties since the collapse of the ceasefire earlier this week.",
+      "did_you_know": "The destruction of Gaza's specialized cancer hospital occurs as the death toll has reportedly risen to over 61,700 Palestinians since the conflict began, according to the Gaza Government Media Office.",
+      "talking_points": [
+        "Military operation: Israeli Defense Minister Israel Katz stated operations in Gaza would continue \"with increasing intensity\" until Hamas releases the 59 remaining hostages.",
+        "Civilian casualties: At least five children were killed in an Israeli airstrike on Gaza City overnight following the hospital's destruction.",
+        "Houthi involvement: Yemen's Houthi rebels claimed responsibility for firing a ballistic missile toward Israel's Ben Gurion Airport near Tel Aviv, which Israel says it intercepted.",
+        "US military presence: The United States is increasing its naval presence in the Middle East with two aircraft carriers to be stationed in the region."
+      ],
+      "quote": "\"a barbaric act of genocide\"",
+      "quote_author": "Hamas",
+      "quote_source_url": "https://www.newarab.com/news/israel-destroys-gaza-cancer-hospital-kills-5-more-children",
+      "quote_source_domain": "newarab.com",
+      "location": "Gaza Strip",
+      "perspectives": [
+        {
+          "text": "Israeli military: The operation to destroy the cancer hospital was part of a necessary military advance deeper into Gaza aimed at pressuring Hamas to release hostages.",
+          "sources": [
+            {
+              "name": "France24",
+              "url": "https://www.france24.com/en/middle-east/20250321-israeli-forces-advance-further-gaza-destroy-cancer-hospital-hostages-hamas"
+            }
+          ]
+        },
+        {
+          "text": "Gaza Health Ministry: The destruction of the specialized cancer facility represents a \"heinous crime\" that will catastrophically impact patients needing urgent medical care.",
+          "sources": [
+            {
+              "name": "The New Arab",
+              "url": "https://www.newarab.com/news/israel-destroys-gaza-cancer-hospital-kills-5-more-children"
+            }
+          ]
+        },
+        {
+          "text": "Houthi movement: Their attacks on Israeli targets are a direct response to the ongoing conflict in Gaza, positioning themselves as defenders of Palestinians.",
+          "sources": [
+            {
+              "name": "TASS",
+              "url": "https://tass.com/world/1932447"
+            }
+          ]
+        },
+        {
+          "text": "United States: The deployment of additional naval assets to the region signals support for Israel while attempting to deter further escalation from Iran and its allies.",
+          "sources": [
+            {
+              "name": "Times of Israel",
+              "url": "https://www.timesofisrael.com/us-beefs-up-warship-presence-in-mideast-will-have-2-aircraft-carriers-in-region/"
+            }
+          ]
+        }
+      ],
+      "emoji": "🏥",
+      "geopolitical_context": "",
+      "historical_background": "",
+      "international_reactions": [
+        "🇺🇸 United States: Increased naval presence in the Middle East with plans to station two aircraft carriers in the region",
+        "🇹🇷 Turkey: Likely to condemn the destruction of the Turkish-Palestinian Friendship Hospital, though specific reaction not detailed in sources",
+        "🇺🇳 United Nations: Human rights office condemned Israel's renewed assault, citing high civilian casualties"
+      ],
+      "humanitarian_impact": "The destruction of Gaza's only specialized cancer treatment facility further strains the territory's overwhelmed medical infrastructure, affecting cancer patients requiring urgent care. According to the UN's human rights office, over 200 children and more than 110 women have been killed in Israeli operations this week alone, exacerbating the humanitarian crisis.",
+      "economic_implications": "",
+      "timeline": [
+        "March 21, 2025:: Israel destroys Gaza's only specialized cancer hospital during military advance",
+        "Earlier this week:: Israel resumes military operations after collapse of ceasefire",
+        "Recent days:: Houthis launch missile targeting Ben Gurion Airport, intercepted by Israel"
+      ],
+      "future_outlook": "",
+      "key_players": [],
+      "technical_details": "",
+      "business_angle_text": "",
+      "business_angle_points": [],
+      "user_action_items": "",
+      "scientific_significance": [],
+      "travel_advisory": [],
+      "destination_highlights": "",
+      "culinary_significance": "",
+      "performance_statistics": [],
+      "league_standings": "",
+      "diy_tips": "",
+      "design_principles": "",
+      "user_experience_impact": "",
+      "gameplay_mechanics": [],
+      "industry_impact": [],
+      "technical_specifications": "",
+      "articles": [
+        {
+          "title": "Israeli forces advance further into Gaza and destroy its only cancer hospital",
+          "link": "https://www.france24.com/en/middle-east/20250321-israeli-forces-advance-further-gaza-destroy-cancer-hospital-hostages-hamas",
+          "domain": "france24.com",
+          "date": "2025-03-21T21:42:22+00:00",
+          "image": "https://kagiproxy.com/img/5wwN186t7s8coHK6SEUhN5a4M-SHcl650cldh_waeFJBvA7_JOW116klXx13l6a9RDQFFrvLbKYSjz6aZ_ELHO1JsirVNjViXG5HxvKRfRcdBLQA_Wudn2yXYL9LV-1N9dEPlIrm8W81vyvlIybPtgzuB7FooEDskG07VTXIhIdUVqVJJj66aQ",
+          "image_caption": ""
+        },
+        {
+          "title": "Israeli military says it intercepted missile fired from Yemen; Houthis claim responsibility",
+          "link": "https://www.thehindu.com/news/international/israeli-military-says-it-intercepted-missile-fired-from-yemen-houthis-claim-responsibility/article69360594.ece",
+          "domain": "thehindu.com",
+          "date": "2025-03-22T02:02:20+00:00",
+          "image": "https://kagiproxy.com/img/mf1BSlGer2KyLI1TeHxFjR8KBvMR_5l-_VQ6H8fUXmFFgVGydgF9llNIverx9peKk2BHbDpSKo3VLy9QnrN6jdIZ6KJJDc-N98R3UvnFp3kAAa1EkpI3OmQFaMJRBftHdTCX6C-vSdrB_5RS8b6ltNJ7rCu1GK1mW7brJe_lLhsf3xY6JA2nK_2tT8RfFX9xYc-M6p6bPjKt9IJ-siWgORJdGmfPPndXwrF4fajGSJW1Kh9dkphrv9QWia7r8cEkekQf1Yma3XSrjjXGOzyMkU-0197Ppg",
+          "image_caption": ""
+        },
+        {
+          "title": "Israel blows up Gaza’s only specialised cancer hospital in massive blast",
+          "link": "https://www.aljazeera.com/news/2025/3/22/israel-blows-up-gazas-only-specialised-cancer-hospital-in-massive-strike",
+          "domain": "aljazeera.com",
+          "date": "2025-03-22T09:14:27+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "‘Every shot fired’: Are Yemen’s Houthis a proxy force for Iran?",
+          "link": "https://www.aljazeera.com/news/2025/3/22/every-shot-fired-are-yemens-houthis-a-proxy-force-for-iran",
+          "domain": "aljazeera.com",
+          "date": "2025-03-22T05:51:04+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Houthis report strike on Ben Gurion airport, US vessels in Red Sea",
+          "link": "https://tass.com/world/1932447",
+          "domain": "tass.com",
+          "date": "2025-03-22T02:24:30+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "US attacks Houthi targets in Yemen’s southwestern Saada governorate — TV",
+          "link": "https://tass.com/world/1932389",
+          "domain": "tass.com",
+          "date": "2025-03-21T20:34:14+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "US beefs up warship presence in Mideast, will have 2 aircraft carriers in region",
+          "link": "https://www.timesofisrael.com/us-beefs-up-warship-presence-in-mideast-will-have-2-aircraft-carriers-in-region/",
+          "domain": "timesofisrael.com",
+          "date": "2025-03-22T07:16:47+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Israel destroys Gaza cancer hospital, kills 5 more children",
+          "link": "https://www.newarab.com/news/israel-destroys-gaza-cancer-hospital-kills-5-more-children",
+          "domain": "newarab.com",
+          "date": "2025-03-22T09:03:02+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Israeli forces push deeper into Gaza and destroy its only cancer hospital",
+          "link": "https://www.reddit.com/r/inthenews/comments/1jh1yql/israeli_forces_push_deeper_into_gaza_and_destroy/",
+          "domain": "reddit.com",
+          "date": "2025-03-22T06:04:45+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Israel intercepts a ballistic missile that the Houthis in Yemen claim to have fired at the Ben Gurion International Airport in Tel Aviv.",
+          "link": "https://www.theguardian.com/world/2025/mar/21/israel-katz-warns-hamas-gaza-annex-war",
+          "domain": "theguardian.com",
+          "date": "2025-03-22T00:00:00+00:00",
+          "image": "",
+          "image_caption": ""
+        }
+      ],
+      "domains": [
+        {
+          "name": "reddit.com",
+          "favicon": "https://kagiproxy.com/img/ovEoBj2sVDEtKrvu3R1YHhUBn4APCJPwHNtXb_jpG0q993Ix0R90t8KBmvYQjxofulSW85ZD_tesm3a8Z_74u_5KFbCty6Kjk5f3-seVzjw"
+        },
+        {
+          "name": "aljazeera.com",
+          "favicon": "https://kagiproxy.com/img/s-25HtUA0lgTlVQHt6AJBFTKZN9vlJNH90ZQdBHOiGmHCR82mssHehiDTRXIHojENsfaeZbYzBXUwhwVJSh6ibSEs_UrSSzZes3vlM0a8-2j13A"
+        },
+        {
+          "name": "theguardian.com",
+          "favicon": "https://kagiproxy.com/img/rbi--CelE3otxAcc8Fi94_FWhcKhkSKyOq58YNY_fMFjeIcxzlSqmRLD-jF5cUKI-8mbKK4DPyQk0b7ww6i-saAy6ofc6Wd0CozSKk5tB9wHOIIgMg"
+        },
+        {
+          "name": "newarab.com",
+          "favicon": "https://kagiproxy.com/img/F7w0PNq_GOLe4Y9UARtsDi_B_rMp3BnxcM0zEC8aO0DzLWSQAvK4Q-lPQKCp8zuiYv3Y-KNBCb4dipx1MF81sh7P9OIYoZ96M6QteGbxWZy1"
+        },
+        {
+          "name": "thehindu.com",
+          "favicon": "https://kagiproxy.com/img/g7ycwG0k479IeEaC8jPnIomrfQZwanycDMP4bZgd5fEjSfISjcZezACk4OjUNVrIeW35n4MgcSF4F8iZohkDM9dOaSm3XWyCeJlqZ_7NXMrytQ"
+        },
+        {
+          "name": "tass.com",
+          "favicon": "https://kagiproxy.com/img/wA102ShqBIQcNHWctKRA0UV1IHYHghXvL4N3xnnpc1qU5B4mwub8aUKNrei_i9ZjXUE__2kH-5wyzLcE3QOuWYT-mWJr0C-VU7J_nJXY"
+        },
+        {
+          "name": "france24.com",
+          "favicon": "https://kagiproxy.com/img/buFp2E0g16G8vrpdcrkQLqxL9G1XstRUjQjsm9Q1aNn8DH6Ipowhro6P0v5rx_QMDcX1feHjr3BqWzNq-pqUzbZlbq9iC5ryxJHkYItPCDE-RQ"
+        },
+        {
+          "name": "timesofisrael.com",
+          "favicon": "https://kagiproxy.com/img/4hUeNKpcQ3KXFYVZicSYMNjFB4q4Dp3ZdPH8ZnjpfVZzYc7InwTvNmxrzKAItRsqI7GKbIGXhbehuRV52Cps8DJec-MIhu-ZiIOLNeIg1TCDxvibFXS2"
+        }
+      ]
+    },
+    {
+      "cluster_number": 9,
+      "unique_domains": 9,
+      "number_of_titles": 19,
+      "category": "Diplomacy",
+      "title": "Trump envoy details progress on Ukraine peace talks",
+      "short_summary": "US special envoy Steve Witkoff has reported \"tremendous progress\" in negotiations between Russia and Ukraine, revealing that Ukraine has agreed to hold elections and technical teams will meet in Jeddah on Monday to discuss ceasefire details. This follows a 30-day pause on strikes against Ukrainian energy infrastructure ordered by Russian President Vladimir Putin after a phone call with US President Donald Trump on March 18.",
+      "did_you_know": "Vladimir Zelensky's five-year presidential term expired in May 2024, after which he refused to hold new elections, citing martial law.",
+      "talking_points": [
+        "Electoral legitimacy: Both the US and Russia have questioned Zelensky's legitimacy since his term expired last year without elections.",
+        "Ceasefire progress: Putin ordered a 30-day pause on attacks against Ukrainian energy infrastructure following his call with Trump.",
+        "Territorial dispute: Witkoff identified the status of five Russian-claimed regions as a key issue in resolving the conflict.",
+        "Diplomatic structure: Rather than direct talks, the US is serving as intermediary between Russian and Ukrainian delegations.",
+        "Security guarantees: Ukraine is seeking concrete security guarantees, citing past broken promises from Russia."
+      ],
+      "quote": "\"Yes. They've agreed to it. There will be elections in Ukraine.\"",
+      "quote_author": "Steve Witkoff, Trump's special envoy",
+      "quote_source_url": "https://www.rt.com/news/614613-ukraine-elections-zelensky-witkoff/",
+      "quote_source_domain": "rt.com",
+      "location": "Washington, DC, United States",
+      "perspectives": [
+        {
+          "text": "Trump administration: Believes a ceasefire is achievable soon and that significant progress has been made in bringing the parties closer to an agreement.",
+          "sources": [
+            {
+              "name": "RT",
+              "url": "https://www.rt.com/news/614611-trump-rejects-russia-ceasefire-rejection/"
+            }
+          ]
+        },
+        {
+          "text": "Russian position: Agrees to a ceasefire in principle but insists on addressing \"significant points\" including implementation control and Ukraine ceasing mobilization.",
+          "sources": [
+            {
+              "name": "TASS",
+              "url": "https://tass.com/world/1932419"
+            }
+          ]
+        },
+        {
+          "text": "Ukrainian concerns: Requires security guarantees beyond promises, given a history of broken agreements with Russia.",
+          "sources": [
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2025/03/21/1239865416/the-long-history-of-russias-broken-promises-to-ukraine"
+            }
+          ]
+        },
+        {
+          "text": "UK: Prime Minister Starmer states that plans for allied countries to ensure a potential ceasefire are \"coming together.\".",
+          "sources": [
+            {
+              "name": "Firstpost",
+              "url": "https://www.firstpost.com/world/plans-for-guaranteeing-ukraine-truce-coming-together-says-starmer-after-military-leaders-meet-in-london-13873206.html"
+            }
+          ]
+        }
+      ],
+      "emoji": "🕊️",
+      "geopolitical_context": "",
+      "historical_background": "The current conflict escalated dramatically when Russia launched a full-scale invasion of Ukraine in February 2022, though tensions had been building since Russia's annexation of Crimea in 2014. Previous agreements between the countries, including the Budapest Memorandum of 1994 where Ukraine gave up nuclear weapons in exchange for security assurances, have failed to prevent territorial disputes.",
+      "international_reactions": [
+        "🇬🇧 United Kingdom: Prime Minister Keir Starmer indicated that plans for allied countries to ensure a potential ceasefire are \"coming together\" following a meeting of senior military planners.",
+        "🇺🇸 United States: The Biden administration has arranged separate meetings with Ukrainian and Russian representatives in Riyadh next week to facilitate ceasefire negotiations."
+      ],
+      "humanitarian_impact": "",
+      "economic_implications": "",
+      "timeline": [
+        "March 18, 2025:: Trump and Putin hold phone call discussing a 30-day ceasefire in Ukraine",
+        "March 18, 2025:: Putin orders 30-day pause on strikes against Ukrainian energy infrastructure",
+        "March 22, 2025:: Zelensky visits Ukraine's Donetsk region near strategic eastern city of Pokrovsk",
+        "March 25, 2025:: Technical teams scheduled to meet in Jeddah to discuss ceasefire details"
+      ],
+      "future_outlook": "",
+      "key_players": [],
+      "technical_details": "",
+      "business_angle_text": "",
+      "business_angle_points": [],
+      "user_action_items": [
+        "Research historical agreements: Review the Budapest Memorandum and other past Ukraine-Russia agreements to understand context of current concerns."
+      ],
+      "scientific_significance": [],
+      "travel_advisory": [],
+      "destination_highlights": "",
+      "culinary_significance": "",
+      "performance_statistics": [],
+      "league_standings": "",
+      "diy_tips": "",
+      "design_principles": "",
+      "user_experience_impact": "",
+      "gameplay_mechanics": [],
+      "industry_impact": [],
+      "technical_specifications": "",
+      "articles": [
+        {
+          "title": "Election in Ukraine, Kiev’s membership in NATO: Key takeaways from Trump envoy’s interview",
+          "link": "https://www.rt.com/news/614620-witkoff-interview-ukraine-recap/",
+          "domain": "rt.com",
+          "date": "2025-03-22T10:48:56+00:00",
+          "image": "https://kagiproxy.com/img/a-rbTNNLac0jdwHrvmd7vP9aXo2lBlE5HiWRd2biNSAgtTmoQsOVVcE4zyZSomoPoTkG4qzCVthXnVZYyzYCjFKr2-3giNjtSGuZbRk5oL3Iqwfjx0V9n0_myT-_vssWRV_3BCOs",
+          "image_caption": "US special envoy to the Middle East Steve Witkoff at the White House, Washington, DC, March 6, 2025."
+        },
+        {
+          "title": "Trump envoy shares details from meeting with Putin",
+          "link": "https://www.rt.com/news/614612-witkoff-putin-meeting-ceasefire/",
+          "domain": "rt.com",
+          "date": "2025-03-22T02:43:15+00:00",
+          "image": "https://kagiproxy.com/img/lmGcIgqnwy_TOK7FzVnxdCzayGKNWWnb847MCws8XUMTOP0_nF6L90T19yk2HnIqD8j-rHh3rYuyA7PL4ohUzg8COsU74L8M2lXT1oeGYojPhWQLqnWkLh187FQg1XifeCC5MBJx",
+          "image_caption": "A Russian soldier in Sudzha, Russia following the city’s liberation from Ukrainian troops on March 15, 2025."
+        },
+        {
+          "title": "Ukraine will hold elections – Trump envoy",
+          "link": "https://www.rt.com/news/614613-ukraine-elections-zelensky-witkoff/",
+          "domain": "rt.com",
+          "date": "2025-03-22T03:57:43+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Trump denies claim that Russia rejected Ukraine ceasefire",
+          "link": "https://www.rt.com/news/614611-trump-rejects-russia-ceasefire-rejection/",
+          "domain": "rt.com",
+          "date": "2025-03-22T00:40:36+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Russia-Ukraine war: List of key events, day 1,122",
+          "link": "https://www.aljazeera.com/news/2025/3/22/russia-ukraine-war-list-of-key-events-day-1122",
+          "domain": "aljazeera.com",
+          "date": "2025-03-22T04:58:11+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Why Trump is struggling to secure fast ceasefire in Ukraine",
+          "link": "https://www.bbc.com/news/articles/c89yngk2z7qo",
+          "domain": "bbc.com",
+          "date": "2025-03-22T08:45:06+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Envoy Witkoff cites status of five Russian regions as key issue in Ukraine conflict",
+          "link": "https://tass.com/world/1932455",
+          "domain": "tass.com",
+          "date": "2025-03-22T04:24:13+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Trump says set no deadline for ceasefire in talk with Putin",
+          "link": "https://tass.com/world/1932449",
+          "domain": "tass.com",
+          "date": "2025-03-22T02:41:36+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "US makes significant progress in converging positions of Russia, Ukraine — envoy Witkoff",
+          "link": "https://tass.com/world/1932443",
+          "domain": "tass.com",
+          "date": "2025-03-22T01:53:18+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Ukraine's leadership agrees to hold presidential election — envoy Witkoff",
+          "link": "https://tass.com/world/1932429",
+          "domain": "tass.com",
+          "date": "2025-03-22T00:28:45+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Trump disagrees Russia rejected Ukraine ceasefire",
+          "link": "https://tass.com/world/1932419",
+          "domain": "tass.com",
+          "date": "2025-03-21T23:17:15+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "US set to hold meeting with Ukraine in Riyadh one day ahead of talks with Russia — media",
+          "link": "https://tass.com/world/1932405",
+          "domain": "tass.com",
+          "date": "2025-03-21T21:50:50+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Plans for guaranteeing Ukraine truce 'coming together', says Starmer after military leaders' meet in London",
+          "link": "https://www.firstpost.com/world/plans-for-guaranteeing-ukraine-truce-coming-together-says-starmer-after-military-leaders-meet-in-london-13873206.html",
+          "domain": "firstpost.com",
+          "date": "2025-03-28T00:00:00+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Tracking Ukraine’s battle against Russia in maps and charts",
+          "link": "https://www.ft.com/content/4351d5b0-0888-4b47-9368-6bc4dfbccbf5",
+          "domain": "ft.com",
+          "date": "2025-03-21T21:23:36+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "The long history of Russia's broken promises to Ukraine",
+          "link": "https://www.npr.org/2025/03/21/1239865416/the-long-history-of-russias-broken-promises-to-ukraine",
+          "domain": "npr.org",
+          "date": "2025-03-21T22:26:12+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Zelenskiy visits Ukraine's eastern Donetsk region",
+          "link": "https://www.straitstimes.com/world/europe/zelenskiy-visits-ukraines-eastern-donetsk-region",
+          "domain": "straitstimes.com",
+          "date": "2025-03-22T10:53:18+00:00",
+          "image": "",
+          "image_caption": ""
+        }
+      ],
+      "domains": [
+        {
+          "name": "straitstimes.com",
+          "favicon": "https://kagiproxy.com/img/iBxAe6RRojQSyaoUWi_kDeodKg15Gv4Fl9rswfK4Yvz5OgWbqIXHwEKDT1wC1cRjP23mrRJ-qMFFJbXtOjzlj3zJUbpWQkzMwhV8_5lpgMRKU0pkWHs"
+        },
+        {
+          "name": "aljazeera.com",
+          "favicon": "https://kagiproxy.com/img/w0QHCyV0FVgRJWrBXrr2NQ23n2Sw5Ldm7EH98x06HHjFU2rzhC5jFOn-QPwCGZKJuauRNVkHqjThVG7EThuidiUiSOEdRDCEqsXTKcZWclvdCKU"
+        },
+        {
+          "name": "ft.com",
+          "favicon": "https://kagiproxy.com/img/DOU4DLR26zrWw13J4j0ylVHW8GY3wki-MNr8DXsxVJTUyfR3Xnb4GdF18WhoLnDAn_mm9tP6BWWldItOsigv1YaXWfpciYzUubqbPQ"
+        },
+        {
+          "name": "bbc.com",
+          "favicon": "https://kagiproxy.com/img/EpSrdgBiAQA-u_LMBw9j6XAaw88K9wDZzBC6TU1AaR4SzBPA5o2R7EjLejQ_f-qRqlLIcWmmhqSwcVzVmQ0NoKsA8aR5kiz3neoG1kU"
+        },
+        {
+          "name": "rt.com",
+          "favicon": "https://kagiproxy.com/img/PZtB-BnS9BXsmeCa0dD4kkBOmJkKFNnDSU5bk6_-UXIGp3kqRyHfHGggw38FmmYDva3x2QQJIfD_wRhs_GajZCx318umjVLSppsmRw"
+        },
+        {
+          "name": "tass.com",
+          "favicon": "https://kagiproxy.com/img/ITX9PdcX34wqqt_IO8_WirmcF7YXRi6L3KZmC-qq6DDuDMDJW5-fJ9SFXWJvpDykjL5Yt9kqRBiMnycCiHl2pQMySYjiXazz9Gw6glmQ"
+        },
+        {
+          "name": "firstpost.com",
+          "favicon": "https://kagiproxy.com/img/ChIaMMLc9MH-2zaUvjGHa2tAirJWjb0ToJkYpAHGsk1t2CNAMvBNwib6cr6Rdc5dFpK_XPqRN4KdBwMzWqqkK3tMfy3jRWcDR0JdgIZrgflsiLw"
+        },
+        {
+          "name": "npr.org",
+          "favicon": "https://kagiproxy.com/img/KWjwmwS05CmYWsKd2A8uHYTHIN3n4N1igt2Eq7olpPQcO1iDIVoE0B3hqbH-AtyDtLm1w4uAAqn1RxylKLoQlXML4tWAAbnf5R6eOtw"
+        }
+      ]
+    },
+    {
+      "cluster_number": 10,
+      "unique_domains": 8,
+      "number_of_titles": 9,
+      "category": "Conflict",
+      "title": "Israel threatens Gaza annexation as airstrikes resume",
+      "short_summary": "Israel has resumed intensive bombing of Gaza, killing at least 600 Palestinians since Tuesday according to local officials, after a January ceasefire expired. Israeli Defense Minister Israel Katz has threatened to annex parts of Gaza unless Hamas releases remaining Israeli hostages, while ordering the military to seize more territory in the enclave. Mediators from Egypt and Qatar have reportedly presented Hamas with a new proposal for re-establishing a truce and exchanging captives.",
+      "did_you_know": "The renewed Israeli bombardment since Tuesday represents one of the highest death tolls in Gaza since the conflict began more than 17 months ago.",
+      "talking_points": [
+        "Military operations: Israel has issued evacuation orders for residents in several areas of southern Gaza ahead of threatened strikes.",
+        "Humanitarian crisis: Israel has blocked humanitarian aid entry into Gaza since March 2, exacerbating conditions during the Muslim holy month of Ramadan.",
+        "Buffer zone proposal: Defense Minister Katz threatened to expand buffer zones around Gaza and implement \"permanent Israeli occupation\" if Hamas doesn't comply.",
+        "Ceasefire negotiations: A US \"bridge\" proposal aims to extend a truce into April, beyond Ramadan and Passover, to allow time for permanent ceasefire talks.",
+        "Casualty reports: Gaza's civil defense agency reported 504 deaths on Thursday alone following the resumption of bombardment."
+      ],
+      "quote": "\"I ordered (the army) to seize more territory in Gaza... The more Hamas refuses to free the hostages, the more territory it will lose, which will be annexed by Israel.\"",
+      "quote_author": "Israel Katz, Israeli Defence Minister",
+      "quote_source_url": "https://www.newarab.com/news/israels-katz-threatens-annex-parts-gaza-amid-attacks",
+      "quote_source_domain": "newarab.com",
+      "location": "Gaza Strip, Palestinian Territories",
+      "perspectives": [
+        {
+          "text": "Israeli government: Claims the intensive bombing is necessary to pressure Hamas to release remaining hostages and views territorial control as leverage in negotiations.",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2025/mar/21/israel-katz-warns-hamas-gaza-annex-war"
+            }
+          ]
+        },
+        {
+          "text": "Palestinian sources: Describe the renewed bombings as collective punishment and a humanitarian catastrophe during Ramadan with critical shortages of food, medicine and shelter.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/opinions/2025/3/22/gaza-is-being-starved-and-bombed-again-why-are-we-allowing-it"
+            }
+          ]
+        },
+        {
+          "text": "International mediators: Egypt and Qatar are attempting to broker a new ceasefire agreement that would include humanitarian aid deliveries and prisoner exchanges according to a timeline to be determined.",
+          "sources": [
+            {
+              "name": "The New Arab",
+              "url": "https://www.newarab.com/news/israels-katz-threatens-annex-parts-gaza-amid-attacks"
+            }
+          ]
+        }
+      ],
+      "emoji": "💣",
+      "geopolitical_context": "",
+      "historical_background": "",
+      "international_reactions": [
+        "🇺🇸 United States: Proposed a \"bridge\" plan through special envoy Steve Witkoff to extend the ceasefire into April to allow time for negotiations",
+        "🇶🇦 Qatar: Working with Egypt as mediators to present Hamas with a new proposal for re-establishing a truce and exchanging captives",
+        "🇪🇬 Egypt: Collaborating with Qatar to broker a ceasefire that includes the entry of humanitarian aid into Gaza"
+      ],
+      "humanitarian_impact": "Over 600 Palestinians have been killed since Tuesday according to Gaza's civil defense agency, with residents facing acute shortages of food, medicine, and shelter as Israel has blocked humanitarian aid since March 2 during the Muslim holy month of Ramadan.",
+      "economic_implications": "",
+      "timeline": [
+        "January 19, 2025:: Ceasefire agreement implemented between Israel and Hamas",
+        "March 2, 2025:: Israel blocks humanitarian aid entry into Gaza",
+        "March 19, 2025:: Ceasefire expires after breakdown in negotiations",
+        "March 21, 2025:: Defense Minister Katz threatens to annex parts of Gaza"
+      ],
+      "future_outlook": "",
+      "key_players": [],
+      "technical_details": "",
+      "business_angle_text": "",
+      "business_angle_points": [],
+      "user_action_items": "",
+      "scientific_significance": [],
+      "travel_advisory": [],
+      "destination_highlights": "",
+      "culinary_significance": "",
+      "performance_statistics": [],
+      "league_standings": "",
+      "diy_tips": "",
+      "design_principles": "",
+      "user_experience_impact": "",
+      "gameplay_mechanics": [],
+      "industry_impact": [],
+      "technical_specifications": "",
+      "articles": [
+        {
+          "title": "Israeli minister threatens to annex parts of Gaza",
+          "link": "https://www.dawn.com/news/1899526/israeli-minister-threatens-to-annex-parts-of-gaza",
+          "domain": "dawn.com",
+          "date": "2025-03-22T06:20:39+00:00",
+          "image": "https://kagiproxy.com/img/dDB_s7DCaxRfuEFa3BzQs53blcJEa2nLDb3F4ndcBmJrZkMKndBS1FvoBx9CqH78lO0se6K_ukfnXop0aTSnUIjVSUEVyUS_Ji-0o_-v",
+          "image_caption": "Displaced Palestinians collect books from the destroyed Islamic University in Gaza City for using as fuel to cook food.—AFP"
+        },
+        {
+          "title": "Israel threatens to annex parts of Gaza if Hamas doesn't release hostages",
+          "link": "https://www.firstpost.com/world/israel-threatens-to-annex-parts-of-gaza-if-hamas-doesnt-release-hostages-13873494.html",
+          "domain": "firstpost.com",
+          "date": "2025-03-22T01:16:40+00:00",
+          "image": "https://kagiproxy.com/img/KJgvdAV4F3oYl4gsCoCo8ExahEVVLjXSdMd9vGtw2zuOn1RtLqBCRf2JfpuKhC61mw8nTaWadcrwaRWVfE9xgWW4umNzgKz5WwEpqnW1YMNKfWy8jzDSxyWWxKz3aVy6TobIuic4C8dmI152Lij_pqhklITcGna3gBly86h9Up2PVE1FrPnDCZJ3bQuWmpg",
+          "image_caption": ""
+        },
+        {
+          "title": "Gaza is being starved and bombed again. Why are we allowing it?",
+          "link": "https://www.aljazeera.com/opinions/2025/3/22/gaza-is-being-starved-and-bombed-again-why-are-we-allowing-it",
+          "domain": "aljazeera.com",
+          "date": "2025-03-22T11:06:47+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "The livestream from Gaza’s killing fields resumes",
+          "link": "https://www.aljazeera.com/program/the-listening-post/2025/3/22/the-livestream-from-gazas-killing-fields-resumes",
+          "domain": "aljazeera.com",
+          "date": "2025-03-22T10:58:52+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Israeli strike on Gaza kills at least five people — Al Jazeera",
+          "link": "https://tass.com/world/1932437",
+          "domain": "tass.com",
+          "date": "2025-03-22T01:10:14+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Israel Threatens to Annex Parts of Gaza if Hamas Doesn’t Release Hostages",
+          "link": "https://foreignpolicy.com/2025/03/21/israel-gaza-hamas-hostages-control-netanyahu-katz-ronen-bar-shin-bet-qatargate/",
+          "domain": "foreignpolicy.com",
+          "date": "2025-03-21T20:38:59+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Israel's Katz threatens to annex parts of Gaza amid attacks",
+          "link": "https://www.newarab.com/news/israels-katz-threatens-annex-parts-gaza-amid-attacks",
+          "domain": "newarab.com",
+          "date": "2025-03-22T04:57:44+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Israel resumes deadly airstrikes in Gaza, killing 600 since Tuesday",
+          "link": "https://www.npr.org/2025/03/22/nx-s1-5336233/israel-resumes-deadly-airstrikes-in-gaza-killing-600-since-tuesday",
+          "domain": "npr.org",
+          "date": "2025-03-22T12:05:21+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Israeli Defense Minster Israel Katz orders the Israel Defense Forces to occupy new areas of the Gaza Strip, and threatens to annex sections of Gaza if Hamas refuses to release all its remaining Israeli hostages.",
+          "link": "https://www.theguardian.com/world/2025/mar/21/israel-katz-warns-hamas-gaza-annex-war",
+          "domain": "theguardian.com",
+          "date": "2025-03-22T00:00:00+00:00",
+          "image": "",
+          "image_caption": ""
+        }
+      ],
+      "domains": [
+        {
+          "name": "dawn.com",
+          "favicon": "https://kagiproxy.com/img/RhlTNXKwXsdFD-vwBMcvrt5PyYt0BK-kMXtHBKY5sniXJpUMi7xuqhP9AZW9ETgZCC9fO_3U41b8UcEaPBfN4cqy5b4L9LdLDSsoDEUl"
+        },
+        {
+          "name": "aljazeera.com",
+          "favicon": "https://kagiproxy.com/img/cduHR9BavTKlGW8766tJTpQZwUieTThbo2nn1axpURlHG4xM4kL3GRng-rbFBVF9ToAAuS0Fv1ixhK3QZaQLhIjiIyjrDZJPVSvwK6kXS0VXPOM"
+        },
+        {
+          "name": "theguardian.com",
+          "favicon": "https://kagiproxy.com/img/Li45-72WdCp6BQqgyNgLrZYfoj-uisNgmT_GCg_fHRQMU6EuKGV3E2dexDqL4Rz7rER1jJeROb-C44PfBVe3DKWFcYS3qAKbVwIPOVNaiDCYq52dQw"
+        },
+        {
+          "name": "foreignpolicy.com",
+          "favicon": "https://kagiproxy.com/img/5qypBiPaIVKpt0iF7n0e5XCCu9De3zBMZf2ZBXoIfUuZojG1J_ceVIGs4RduyAxM_x8JtPk8LaiuLBfJtTmumq5gA8XfpOLn-A9QSklPtKe4LV2Gd9Vj"
+        },
+        {
+          "name": "newarab.com",
+          "favicon": "https://kagiproxy.com/img/wE1-93iVNvTHKpfRqZu9DvGR3s1-APB9ZohwC_kjz1CW2YzvugBZHwwNVXIJtcKOerrnYZBNV9envOG2MYLuygg0lcCEjC3yrZQadN0Wa38T"
+        },
+        {
+          "name": "tass.com",
+          "favicon": "https://kagiproxy.com/img/VsGeh3KEfzVsQHm-eFPPskGxGoNBDI4MWE21wKW076zU3xjwutKYkjiZHOipuNOJcffduwMgCRWQT5woeNviOqSufE-A9Ciqoil36El-"
+        },
+        {
+          "name": "firstpost.com",
+          "favicon": "https://kagiproxy.com/img/nhzrKvuOTtO2bll9zSJlR8VNAkCPev4tNrlaI_OiahkMmQQHZD9w4NLiK5f1SkDOG3fIhmjBZMdF69nrOKejJMKpilWRSEMDnSMEztJ61ReWJvs"
+        },
+        {
+          "name": "npr.org",
+          "favicon": "https://kagiproxy.com/img/4nvaXUtqV6-9IEPGO1MnuzjpKeRhtczOE_P30uf18OeFwb0V5-jUIEFp6OQ67xNwHhh0Hh-tKz90L21S_MGXB5ecARIqCS_0kJKyDSc"
+        }
+      ]
+    },
+    {
+      "cluster_number": 11,
+      "unique_domains": 8,
+      "number_of_titles": 10,
+      "category": "Conflict",
+      "title": "Attacks continue despite Ukraine-Russia limited ceasefire",
+      "short_summary": "Russia and Ukraine have continued to launch attacks on each other despite agreeing in principle to a limited ceasefire mediated by US President Donald Trump. Russian drone strikes killed three people in Ukraine's Zaporizhzhia, while Ukrainian drone attacks resulted in two deaths in Russia's Belgorod region and damaged an apartment building in Rostov-on-Don. The attacks highlight the fragility of the ceasefire agreement as both sides appear to hold different views about what targets are protected.",
+      "did_you_know": "The limited ceasefire agreement brokered by former US President Donald Trump has different interpretations, with the White House saying it covers \"energy and infrastructure,\" the Kremlin specifying \"energy infrastructure,\" and Ukraine's President Zelenskyy wanting to include railways and ports.",
+      "talking_points": [
+        "Zaporizhzhia attack: Russian forces launched 12 drones at the Ukrainian city, killing three family members and injuring 12 others despite the ceasefire agreement.",
+        "Belgorod casualties: Ukrainian drone strikes on Russia's border region killed two people and injured seven others across approximately a dozen settlements.",
+        "Rostov drone strike: A Ukrainian drone hit the 17th floor of a high-rise apartment building in Rostov-on-Don, injuring two residents and damaging multiple apartments.",
+        "Ceasefire confusion: The three parties involved in the ceasefire negotiations appear to have different understandings of what targets are protected under the agreement.",
+        "Odesa bombardment: Russian drones conducted one of their biggest attacks on Ukraine's Black Sea port city, injuring three teenagers and causing massive fires."
+      ],
+      "quote": "",
+      "quote_author": "",
+      "quote_source_url": "",
+      "quote_source_domain": "",
+      "location": "Zaporizhzhia, Ukraine",
+      "perspectives": [
+        {
+          "text": "Ukrainian officials: Despite the ceasefire agreement, Russia continues to target civilian areas, killing a family of three in Zaporizhzhia and injuring multiple others.",
+          "sources": [
+            {
+              "name": "AP News",
+              "url": "https://apnews.com/article/russia-ukraine-war-ceasefire-drones-zaporizhzhia-84dab972755f90ad7592a2a13758ed9c"
+            }
+          ]
+        },
+        {
+          "text": "Russian authorities: Ukrainian forces are conducting cross-border attacks on Russian territory, killing civilians in Belgorod Region and damaging residential buildings in Rostov-on-Don.",
+          "sources": [
+            {
+              "name": "RT",
+              "url": "https://www.rt.com/russia/614610-ukrainian-drone-attacks-russian-dead/"
+            }
+          ]
+        },
+        {
+          "text": "US administration: The limited ceasefire agreement should cover \"energy and infrastructure\" targets, though implementation details are still being negotiated.",
+          "sources": [
+            {
+              "name": "AP News",
+              "url": "https://apnews.com/article/russia-ukraine-war-ceasefire-drones-zaporizhzhia-84dab972755f90ad7592a2a13758ed9c"
+            }
+          ]
+        }
+      ],
+      "emoji": "💥",
+      "geopolitical_context": "",
+      "historical_background": "The ongoing Russia-Ukraine conflict began with Russia's full-scale invasion of Ukraine in February 2022. In May 2024, Russia launched an incursion into Ukraine's Kharkiv Region, which it claimed was intended to create a buffer zone to protect Belgorod Region from Ukrainian short-range weapons.",
+      "international_reactions": "",
+      "humanitarian_impact": "The continued attacks on both sides have resulted in at least five civilian deaths and over 21 injuries in the latest wave of strikes, with residential buildings destroyed and civilians trapped under rubble in Zaporizhzhia for hours during rescue operations.",
+      "economic_implications": "",
+      "timeline": [
+        "March 20, 2025:: Ukraine and Russia agree in principle to limited ceasefire after Trump speaks with both leaders",
+        "March 21-22, 2025:: Despite agreement, mutual drone attacks kill civilians on both sides",
+        "March 24, 2025:: US plans to arrange \"indirect talks\" between Russia and Ukraine in Saudi Arabia"
+      ],
+      "future_outlook": "",
+      "key_players": [],
+      "technical_details": "",
+      "business_angle_text": "",
+      "business_angle_points": [],
+      "user_action_items": "",
+      "scientific_significance": [],
+      "travel_advisory": [],
+      "destination_highlights": "",
+      "culinary_significance": "",
+      "performance_statistics": [],
+      "league_standings": "",
+      "diy_tips": "",
+      "design_principles": "",
+      "user_experience_impact": "",
+      "gameplay_mechanics": [],
+      "industry_impact": [],
+      "technical_specifications": "",
+      "articles": [
+        {
+          "title": "Two dead in Ukrainian drone attacks on Russian border region – governor",
+          "link": "https://www.rt.com/russia/614610-ukrainian-drone-attacks-russian-dead/",
+          "domain": "rt.com",
+          "date": "2025-03-21T21:44:20+00:00",
+          "image": "https://kagiproxy.com/img/o6rfv7WDdcCcjNrqZiXf9Lo2GPMJIu0ZQar_i5-B6D_39YvmPpsWhKDnaS1BgiXRMYiCeWy2vND19CgvL8JvPTxFALVso8sitFpuwD9-uJkj5DFwuFBjbyMzTcVxJuHdKWSyox1D",
+          "image_caption": ""
+        },
+        {
+          "title": "Ukrainian drone strikes apartment block in southern Russia – governor (PHOTOS)",
+          "link": "https://www.rt.com/russia/614609-drone-attack-rostov-ukraine/",
+          "domain": "rt.com",
+          "date": "2025-03-21T20:59:34+00:00",
+          "image": "https://kagiproxy.com/img/7Je5XuX3FGo5vJaE21fRYg1JmKjPjmEHapT7ItqYgXpNkoG2yjSVVggFhEEgolQ7trlw4qKymSFP5eFUj2cd10MvGn4veTqR-kTvVeIAVxvsFHWwTGKHq2-k6uPNnAMjaDruWgs3",
+          "image_caption": ""
+        },
+        {
+          "title": "3 people killed in Russian attacks on Ukraine’s Zaporizhzhia despite limited truce",
+          "link": "https://apnews.com/article/russia-ukraine-war-ceasefire-drones-zaporizhzhia-84dab972755f90ad7592a2a13758ed9c",
+          "domain": "apnews.com",
+          "date": "2025-03-22T08:20:30+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Russian strikes target Ukraine's energy infrastructure",
+          "link": "https://www.france24.com/en/video/20250322-russian-strikes-target-ukraine-s-energy-infrastructure",
+          "domain": "france24.com",
+          "date": "2025-03-22T10:17:16+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Four Russian Emergencies Ministry employees wounded in Gorlovka during UAV attack",
+          "link": "https://tass.com/emergencies/1932461",
+          "domain": "tass.com",
+          "date": "2025-03-22T06:04:31+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "UAV attack causes explosion in apartment building in Russia’s Rostov-on-Don",
+          "link": "https://tass.com/emergencies/1932399",
+          "domain": "tass.com",
+          "date": "2025-03-21T21:16:17+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "At least 3 killed in Russian attacks on Ukraine's Zaporizhzhia despite limited truce",
+          "link": "https://abcnews.go.com/International/wireStory/3-people-killed-russian-attacks-ukraines-zaporizhzhia-despite-120051754",
+          "domain": "abcnews.go.com",
+          "date": "2025-03-22T08:39:16+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Russian drones strike Ukrainian port city of Odesa, causing massive blazes",
+          "link": "https://www.pbs.org/newshour/world/russian-drones-strike-ukrainian-port-city-of-odesa-causing-massive-blazes",
+          "domain": "pbs.org",
+          "date": "2025-03-21T22:53:10+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Russian drones hammer Ukraine's Odesa port",
+          "link": "https://japantoday.com/category/world/russian-drones-hammer-ukraine%27s-odesa-port-injure-three-teenagers",
+          "domain": "japantoday.com",
+          "date": "2025-03-22T07:15:31+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Russian attacks kill seven in Ukraine, officials say",
+          "link": "https://www.straitstimes.com/world/europe/russian-attacks-kill-seven-in-ukraine-officials-say",
+          "domain": "straitstimes.com",
+          "date": "2025-03-21T21:48:11+00:00",
+          "image": "",
+          "image_caption": ""
+        }
+      ],
+      "domains": [
+        {
+          "name": "straitstimes.com",
+          "favicon": "https://kagiproxy.com/img/7clIfKk231VVFJrPeo8qZlAlCO0gFwaEGEdxuEqTUA8PCMNUDtl2Y_MzUCEjstT1ugDVqk_HoNmZHtYTPMI4eYmR1zOdJat9Y7_a8Pqm0zaFWPdIgUw"
+        },
+        {
+          "name": "japantoday.com",
+          "favicon": "https://kagiproxy.com/img/-3lkSdlK1VvCPP-3zrvst4PxquXigoKZwGKtbzJDGKFTHODpcFQ4Wp_IyIcxUoxIAKhFwmVzrBgGBGPkZQjtHm4g2HBn0iWDBvEWFvag-iYdg1WV"
+        },
+        {
+          "name": "apnews.com",
+          "favicon": "https://kagiproxy.com/img/ZZ7ZzokIx_fEQv2VYfxRfDCfMmCiwpQSJ4NHhu-tFHbV079KopmifTtjM9NzXGF3rcNilM9Uj4Y6jeU8GlsDiEr3_KUzCOzhKlB8tOik5Ps"
+        },
+        {
+          "name": "abcnews.go.com",
+          "favicon": "https://kagiproxy.com/img/RGy_oEvVhoZ27BInTrrGFAHDU2VHOHF8IaNQLB0oZ3TGbCMlMXuESuoJckYC83OQAEANixN8WJ2yhmoPMkHgs6LjSq9E4xdallHqpS4CrhzTrmO4"
+        },
+        {
+          "name": "pbs.org",
+          "favicon": "https://kagiproxy.com/img/lb1I1jO4ppAQMVZC8JavkCRBOwiQq5NZDUGVTo_o55C-XL7CZ-EE6vsS2W5cy-rC-XH7Uwx91cCzkBbKnT3BMnfCU14BZmxCsp3c_Cs"
+        },
+        {
+          "name": "rt.com",
+          "favicon": "https://kagiproxy.com/img/iTGNPO-dlKR14YzoZ7AACgQCII701g7aAF4xasQAmGALefzl1acddxkSOq2sF-WhA2d5N-Hbcpp-t2q8C-iUuLwAaXBZb34sgtGnjA"
+        },
+        {
+          "name": "tass.com",
+          "favicon": "https://kagiproxy.com/img/tlP0FuI890CRMA5cfetqokk_RG0Kn-eNf30RnLlazbMgP9bL8mhGft6SRsndOjwvAGS1YbbyoHUAJTzAwSIr4JwG5Dsmlh6LNXmOxckf"
+        },
+        {
+          "name": "france24.com",
+          "favicon": "https://kagiproxy.com/img/7HyFUW5ZciBaKsQLcURFybZfu10zKqWM4CujKM24pUasrT41AU6sHXRCf6nJC903elvcc6WEzNGWrzJqQ_RMBt8oL32rDQwmDnOLOXxf4CAZeQ"
+        }
+      ]
+    },
+    {
+      "cluster_number": 12,
+      "unique_domains": 8,
+      "number_of_titles": 10,
+      "category": "Immigration",
+      "title": "Trump administration revokes legal status for 530,000 migrants",
+      "short_summary": "The Trump administration has announced plans to revoke temporary legal status for approximately 530,000 migrants from Cuba, Haiti, Nicaragua, and Venezuela who arrived in the United States since October 2022 under a Biden-era sponsorship program. According to a notice signed by Homeland Security Secretary Kristi Noem, these individuals will lose their legal status effective April 24, 2025, making them eligible for deportation unless they have another lawful way to remain in the country.",
+      "did_you_know": "Jeanette Vizguerra, a Mexican national facing deportation under the Trump administration, previously made headlines during Trump's first term when she took refuge in a church to avoid removal from the country.",
+      "talking_points": [
+        "Policy reversal: The order terminates a two-year \"parole\" program established under President Biden that provided work permits and legal residency for migrants with financial sponsors.",
+        "Affected populations: The revocation specifically targets nationals from Cuba, Haiti, Nicaragua and Venezuela who entered through the CHNV sponsorship program.",
+        "Legal challenges: Multiple federal judges have already intervened in specific deportation cases, temporarily blocking the administration from removing certain migrants.",
+        "Implementation timeline: The policy takes effect on April 24, giving affected individuals approximately one month to find alternative legal pathways or prepare to leave.",
+        "Judicial criticism: At least one federal judge has criticized Trump administration lawyers for being \"intemperate and disrespectful\" in deportation proceedings."
+      ],
+      "quote": "",
+      "quote_author": "",
+      "quote_source_url": "",
+      "quote_source_domain": "",
+      "location": "Washington, DC, United States",
+      "perspectives": [
+        {
+          "text": "Immigration advocates: View the revocation as a severe humanitarian setback that will disrupt the lives of hundreds of thousands of people who have established themselves in the US with legal permission.",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2025/mar/21/trump-revoke-legal-status-cuban-haitian-nicaraguan"
+            }
+          ]
+        },
+        {
+          "text": "Trump administration: Frames the policy as a necessary correction to Biden-era immigration policies that allegedly encouraged irregular migration and burdened American communities.",
+          "sources": [
+            {
+              "name": "Firstpost",
+              "url": "https://www.firstpost.com/world/president-trump-revokes-temporary-legal-status-for-over-530000-migrants-13873504.html"
+            }
+          ]
+        },
+        {
+          "text": "Federal judiciary: Some judges have expressed concerns about the administration's legal approach and deportation tactics, temporarily blocking specific deportations while evaluating the legality of broader policies.",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2025/mar/21/judge-us-deportations-trump-disrespectful"
+            }
+          ]
+        }
+      ],
+      "emoji": "📝",
+      "geopolitical_context": "",
+      "historical_background": "The affected migrants entered the United States under a program established by the Biden administration in late 2022 known as the CHNV parole program. This initiative was created as a legal pathway for nationals from Cuba, Haiti, Nicaragua, and Venezuela to enter the country with financial sponsors and obtain two-year work permits as an alternative to irregular border crossings.",
+      "international_reactions": "",
+      "humanitarian_impact": "",
+      "economic_implications": "",
+      "timeline": [
+        "October 2022:: Biden administration establishes CHNV parole program for migrants from four countries",
+        "March 21, 2025:: Trump administration announces revocation of legal status for 532,000 migrants",
+        "March 2025:: Federal judges temporarily block specific deportations, including activist Jeanette Vizguerra",
+        "April 24, 2025:: Date when legal status will be officially revoked for affected migrants"
+      ],
+      "future_outlook": "",
+      "key_players": [],
+      "technical_details": "",
+      "business_angle_text": "",
+      "business_angle_points": [],
+      "user_action_items": [
+        "Legal consultation: Affected individuals should consult with immigration attorneys to determine if they qualify for alternative legal pathways to remain in the US.",
+        "Document preparation: Those potentially affected should gather and organize all documentation related to their entry and residence in the US."
+      ],
+      "scientific_significance": [],
+      "travel_advisory": [],
+      "destination_highlights": "",
+      "culinary_significance": "",
+      "performance_statistics": [],
+      "league_standings": "",
+      "diy_tips": "",
+      "design_principles": "",
+      "user_experience_impact": "",
+      "gameplay_mechanics": [],
+      "industry_impact": [],
+      "technical_specifications": "",
+      "articles": [
+        {
+          "title": "U.S. judge blocks Trump administration from deporting immigration activist",
+          "link": "https://www.theglobeandmail.com/world/article-us-judge-blocks-trump-administration-from-deporting-immigration/",
+          "domain": "theglobeandmail.com",
+          "date": "2025-03-21T21:07:46+00:00",
+          "image": "https://kagiproxy.com/img/lMH5DQPnmHhsH-Kcn4Z2e_dPE6mlqkOU6RdbZZtQX4gW6yPo7fU1DPH8xxYNWj6_CRntpSkp7-R99aEy1zLydiQ3imz-4bPEvos9YpgWmXrvBrOb3i7X8TkKhkvR4v4YrZu210m3mx5QPyHZ4xgvQ-qEV5j-hwVdMmmJD4JEAewnysV1r57Fm1pyV2Xqn82VYTEDUc3KZ2saBYMYZ_o1tNCGeQSzobkuh4oIWMNDO1M6RoVjXOFY9_Bsy79CHt6mInUS2lFY2QgBE5-iYw",
+          "image_caption": "File - Jeanette Vizguerra, a Mexican immigrant who has lived in a church to avoid immigration authorities for the past three months, speaks after leaving the church early Friday, May 12, 2017, in downtown Denver.(AP Photo/David Zalubowski, File)"
+        },
+        {
+          "title": "Trump strips Biden-era Cubans, Haitians, Nicaraguans, Venezuelans of legal protections",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3303430/trump-strips-biden-era-cubans-haitians-nicaraguans-venezuelans-legal-protections",
+          "domain": "scmp.com",
+          "date": "2025-03-22T01:19:08+00:00",
+          "image": "https://kagiproxy.com/img/CXOmhKAcCgt7nr47Rcp_s_2CalA9G5fKCbOOUG0-K1X5404XyfqiZ0YFe7Hn7BOlNP8zeDmTy2xSSllx_rxQDRpRsrJTt5BVj8s9CaO94mhi5pr9jgvi6qIjVJXDHCnzBT92EhEbW1zlsTvOSIUSLruXChye0jXJqEAOGArqrV1H_8qeuPQ0SEhS3vLKYgw--cBaw8eDq_ilVGxBy5hZEafCmxR3MzSp2OfHOp0JcfxRzq5WQOtTmr4",
+          "image_caption": ""
+        },
+        {
+          "title": "Trump revokes status of 530,000 Latin Americans",
+          "link": "https://www.bbc.com/news/articles/c33706jy774o",
+          "domain": "bbc.com",
+          "date": "2025-03-22T03:18:18+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "President Trump revokes temporary legal status for over 530,000 migrants",
+          "link": "https://www.firstpost.com/world/president-trump-revokes-temporary-legal-status-for-over-530000-migrants-13873504.html",
+          "domain": "firstpost.com",
+          "date": "2025-03-22T04:09:09+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Judge in US deportations case says Trump administration lawyers were ‘disrespectful’",
+          "link": "https://www.theguardian.com/us-news/2025/mar/21/judge-us-deportations-trump-disrespectful",
+          "domain": "theguardian.com",
+          "date": "2025-03-21T22:14:54+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Trump revokes legal status of 530,000 Cubans, Haitians, Nicaraguans and Venezuelans",
+          "link": "https://www.theguardian.com/us-news/2025/mar/21/trump-revoke-legal-status-cuban-haitian-nicaraguan",
+          "domain": "theguardian.com",
+          "date": "2025-03-21T21:38:08+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "U.S. Homeland Security revokes temporary status for 5,32,000 Cubans, Haitians, Nicaraguans and Venezuelans",
+          "link": "https://www.thehindu.com/news/international/us-homeland-security-revokes-temporary-status-for-532000-cubans-haitians-nicaraguans-and-venezuelans/article69360604.ece",
+          "domain": "thehindu.com",
+          "date": "2025-03-22T02:35:29+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Trump to strip legal status from 532,000 migrants living in US",
+          "link": "https://www.straitstimes.com/world/united-states/trump-to-strip-legal-status-from-532000-migrants-living-in-us",
+          "domain": "straitstimes.com",
+          "date": "2025-03-22T03:03:00+00:00",
+          "image": "",
+          "image_caption": ""
+        },
+        {
+          "title": "Judge Slams Trump Lawyers’ Shady Behavior in Deportation Case | Judge James Boasberg brutally called out the lawyers defending Donald Trump’s mass deportation.",
+          "link": "https://www.reddit.com/r/inthenews/comments/1jgszz5/judge_slams_trump_lawyers_shady_behavior_in/",
+          "domain": "reddit.com",
+          "date": "2025-03-21T22:09:45+00:00",
+          "image": "",
+          "image_caption": ""
+        }
+      ],
+      "domains": [
+        {
+          "name": "theglobeandmail.com",
+          "favicon": "https://kagiproxy.com/img/GYfiPdKPTg69nh_hvy82_wgzgqJTZvC49jeD9_7C3NrxE58JYhiL6XPhSA1XT3ClxOGl2ZEDNYPGtvNwdQ7yMRsvs_PruOjpdtn6UNVX7Q88xNkRZ0ugZIQ"
+        },
+        {
+          "name": "scmp.com",
+          "favicon": "https://kagiproxy.com/img/BSUgaFnAgDIsrzlBVln9l-wKIB0nM-x7U2WDnQv3DdwPPYoCJ4gq-TUe2Sgdkunz00JOjlk4ZTqAWn61zS9XbXeYJYFiQ_ot5lhre4CJ"
+        },
+        {
+          "name": "reddit.com",
+          "favicon": "https://kagiproxy.com/img/uNQ-wUN-HrT5yoPXp-gsqxqwbpAj3LikCjqWcsCmfnn1Vuuu9bXXPFSzSkF3sliL0rLmDQ68QJ0HpcS1z4W9IN6TmWczo8i4mdLfV5oesD8"
+        },
+        {
+          "name": "straitstimes.com",
+          "favicon": "https://kagiproxy.com/img/SPsd2l4WP230bikBFOXp1p4vAn3xjKKFCDWCiRWw_Gj_fvBLHC0M-MBjDlG7kDMcUhDcyJiEULjyG0Icg4i3e9qcql387VX2GZBU3oEgHacl96AndX8"
+        },
+        {
+          "name": "theguardian.com",
+          "favicon": "https://kagiproxy.com/img/YMe2ze4vBJBZZfK59X39bvUsnoKrRJNuOdHHYVeYtdAqq4i6MiA4oy_oKB3t6T5O8iAuuhy5bfbXikjKie1m-l5kEDy2Fqxzh87YzKVEnSR8WZfkmg"
+        },
+        {
+          "name": "bbc.com",
+          "favicon": "https://kagiproxy.com/img/Su3cuJTE_OQkRzFwzQWPDoh0laPNTA489iO-52OBXxBCFC_qfLXMcOxflyY---f2og_kyBlxz3efTqxFyWuu5CtppSsacicJPA4s2A4"
+        },
+        {
+          "name": "thehindu.com",
+          "favicon": "https://kagiproxy.com/img/QtX8e6oDzXSu-QzsfbRV0dePIMr8YF91A_Qk6YEeloPyyw1EhjYzKfl1bAbAYQT8txhdRInHFbXoPgtSOkyZkoJSLZJlggIVRHJYEOQ6h9-kEw"
+        },
+        {
+          "name": "firstpost.com",
+          "favicon": "https://kagiproxy.com/img/QrTTmDJpUUO4lxOyOy5alr4Ob4pqdMAaT71kuJ7garblIxDoRoOVRDdqSlntcg4qGe2mncDFuqtkic39IktAzBcaFE4OLJnJFB5l924EUKFp0_M"
+        }
+      ]
+    }
+  ]
+}

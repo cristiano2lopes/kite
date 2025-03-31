@@ -1,0 +1,12 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - lib/**/*.g.dart
+  errors:
+    must_be_immutable: ignore
+
+linter:
+  rules:
+    require_trailing_commas: true
+    avoid_print: false

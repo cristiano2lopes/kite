@@ -1,0 +1,125 @@
+desc "Flutter Commands"
+private_lane :flutter do |options|
+  error_message = "Command and name are mandatory options for the flutter lane"
+  UI.user_error!(error_message) unless options[:command] && options[:name]
+  Dir.chdir("../kite") do
+    on_error = proc do |error|
+      UI.user_error!("#{options[:name]} failed.")
+    end
+    sh("flutter #{options[:command]}", step_name: options[:name], error_callback: on_error)
+  end
+end
+
+desc "Run the tests"
+lane :test do |options|
+  coverage = "--coverage"
+  flutter(command: "analyze", name: "Lint/Analyze")
+  if is_ci
+    # Run the tests 2 times, one for console output the other for machine output
+    # flutter limitation
+    # Please uncomment and create the file when we have features developed
+    Dir.chdir("../kite") do
+      sh("dart coverage_helper.dart ")
+    end
+    flutter(command: "test", name: "Test")
+    flutter(
+      command: "test #{coverage} --machine >> ../flutter_test_result.json",
+      name: "Generate JUnit Test Results"
+    )
+  else
+    Dir.chdir("../kite") do
+      sh("dart coverage_helper.dart ")
+    end
+    flutter(command: "test #{coverage}", name: "Test")
+    Dir.chdir("../kite") do
+      sh(
+      "lcov --remove ./coverage/lcov.info 'lib/common/theme/*' '*.g.dart' '*.mocks.dart' 'lib/l10n/*' --output-file ./coverage/lcov-filtered.info",
+      step_name: "Filter Coverage report"
+    )
+      sh(
+        "if command -v genhtml ; then genhtml -o coverage coverage/lcov-filtered.info; fi",
+        step_name: "Gen Coverage Html Report"
+      )
+    end
+  end
+end
+
+platform :ios do
+
+  #before_all do |lane|
+  # ensure_git_status_clean
+  #end
+
+lane :generate_icon do |options|
+   in_path  = options.fetch(:in_path)
+   out_path  = options.fetch(:out_path)
+   appicon(
+      appicon_image_file:in_path,
+      appicon_path: out_path,
+      appicon_devices: [:ipad, :iphone, :ios_marketing]
+    )
+end
+
+  desc "Deploy"
+  lane :deploy do |options|
+    flutter(command: "clean", name: "Clean")
+    flutter(command: "build ios --config-only --release --no-codesign", name: "Build")
+    build_app(
+     workspace: "kite/ios/Runner.xcworkspace",
+     scheme: "Runner",
+     export_method: "app-store",
+     output_directory: "kite/build/ios",
+     export_options: {
+       provisioningProfiles: { 
+         "lol.cristiano.kite" => "Kite"
+       }
+     }
+    )
+
+    upload_to_testflight(
+        skip_waiting_for_build_processing: true,
+      )
+
+  end
+  
+  after_all do |lane|
+  end
+
+end
+
+platform :android do
+
+  before_all do |lane|
+    #ensure_git_status_clean
+  end
+
+  desc "Deploy to specified env"
+  lane :deploy do |options|
+    ensure_env_vars(
+      env_vars: [
+      'APP_SIGNING_KEYSTORE_PATH', 'APP_SIGNING_KEYSTORE_PASSWORD',
+      ]
+    )
+
+    flutter(command: "clean", name: "Clean")
+    flutter(command: "build appbundle", name: "Build AAB")
+    flutter(command: "build apk", name: "Build APK")
+
+    Dir.chdir("../kite") do
+        output_path = "./build/app/outputs/"
+        apk = Dir.glob("#{output_path}**/*release*.apk")[0]
+        aab = Dir.glob("#{output_path}**/*release*.aab")[0]
+
+        new_aab_name = "#{File.basename(apk, ".*")}.aab"
+        FileUtils.mv apk, "../builds", :force => true
+        FileUtils.mv aab, "../builds/#{new_aab_name}", :force => true
+    end
+
+    UI.important "Upload the bundle manually to the playstore: ./builds"
+  end
+  
+
+  after_all do |lane|
+  end
+
+end
