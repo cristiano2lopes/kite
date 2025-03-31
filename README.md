@@ -11,11 +11,11 @@ For flutter you can use [FVM](https://fvm.app) or some other similar tool
 1. Install the pre-requisites
 2. Run `bundler` to install the ruby dependencies
 
-    bundle install
+        bundle install
 
 3. Run the app with flutter from `./kite` directory and follow the instructions
 
-    flutter run
+        flutter run
 
 ## Project created with
 
@@ -32,14 +32,14 @@ clear graph of dependencies and ease of testing.
 
 ## Misc
 
-We use json_serializable for code gen of json models. After changes to those models
+`json_serializable` is used for code gen of json models. After changes to those models
 you will need to run the following command to generate the code:
 
     dart run build_runner build --delete-conflicting-outputs
 
 # Deploy
 
-For now deploys are run locally. Moving to a ci/cd is a matter of
+For now deploys run locally. Moving to a ci/cd is a matter of
 adding automation to the codesigning resources setup and use the same
 existing fastlane commands.
 
